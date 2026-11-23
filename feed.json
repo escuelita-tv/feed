@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "generatedAt": "2026-11-23T11:37:26+00:00",
+ "ageBands": [
+  {
+   "id": "2-4",
+   "label": "2 a 4 años"
+  },
+  {
+   "id": "4-6",
+   "label": "4 a 6 años"
+  },
+  {
+   "id": "6-9",
+   "label": "6 a 9 años"
+  }
+ ],
+ "topics": [
+  {
+   "id": "letras",
+   "label": "Letras y sílabas"
+  },
+  {
+   "id": "numeros",
+   "label": "Números y matemáticas"
+  },
+  {
+   "id": "ciencia",
+   "label": "Ciencia y naturaleza"
+  },
+  {
+   "id": "cuerpo",
+   "label": "El cuerpo humano"
+  },
+  {
+   "id": "ingles",
+   "label": "Palabras en inglés"
+  },
+  {
+   "id": "manualidades",
+   "label": "Manualidades"
+  }
+ ],
+ "videos": []
+}
