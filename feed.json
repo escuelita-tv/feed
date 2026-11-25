@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-24T04:43:22+00:00",
+ "generatedAt": "2026-11-25T05:39:32+00:00",
  "ageBands": [
   {
    "id": "2-4",
@@ -136,6 +136,24 @@
    "durationSec": 140,
    "stream": "https://escuelita-tv.github.io/media-001/6bpueDD1Eak/master.m3u8",
    "thumbnail": "https://escuelita-tv.github.io/feed/img/6bpueDD1Eak.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "iuR3FlX7ob8",
+   "title": "Cómo hacer flores de papel amarillas fáciles y bonitas para regalar",
+   "description": "En este tutorial te enseño paso a paso cómo hacer flores de papel amarillas fáciles y rápidas, ideales para decorar tu hogar, regalar en una ocasión especial o simplemente disfrutar de una manualidad relajante. Estas flores están realizas con papel, un material muy fácil de conseguir y económico. Si haces varias flores podrás crear un estupendo ramo de flores amarillas estupendo para reglar el 21 de Septiembre. El único material que vas a necesitar es hojas de papel, evidentemente papel de color amarillo para los pétalos amarillos de tu flor y papel de color marrón y verde para el tallo y lo",
+   "topic": "manualidades",
+   "collection": "flores",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 284,
+   "stream": "https://escuelita-tv.github.io/media-002/iuR3FlX7ob8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/iuR3FlX7ob8.jpg",
    "creator": {
     "name": "Manualidades Play",
     "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
@@ -280,6 +298,24 @@
    "durationSec": 387,
    "stream": "https://escuelita-tv.github.io/media-001/RNoodsluP4Y/master.m3u8",
    "thumbnail": "https://escuelita-tv.github.io/feed/img/RNoodsluP4Y.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "RaXGWVwqja4",
+   "title": "5 Manualidades Navideñas con Limpiapipas Fáciles y Rápidas",
+   "description": "Te enseño como hacer manualidades para Navidad con limpiapipas, son muy fáciles de hacer y te las explico paso a paso en este vídeo para que puedas hacerlas tu mismo. El único material que necesitas para hacer estas manualidades es limpiapipas, puedes utilizar el color que más te guste y es tan sencillo como seguir paso a paso las instrucciones de cada unos de los tutoriales que aquí te muestro. 00:01 Árbol de navidad con limpiapipas 01:07 Corona con limpiapipas 02:16 Bola de navidad con limpiapipas 03:13 Batón navideño con limpiapipas 03:40 Estrella de navidad con limpiapipas Puedes hacer",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 293,
+   "stream": "https://escuelita-tv.github.io/media-002/RaXGWVwqja4/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/RaXGWVwqja4.jpg",
    "creator": {
     "name": "Manualidades Play",
     "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
@@ -449,6 +485,42 @@
    }
   },
   {
+   "id": "ddh7F7rKwu8",
+   "title": "Cómo hacer un Caracol de origami fácil con hoja de papel",
+   "description": "En este tutorial te enseño como hacer un caracol de origami paso a paso, es muy fácil de hacer y solo necesitarás utilizar una hoja de papel, así de sencillo. Para hacer este caracol de origami el único material que necesitamos es una hoja de papel cuadrada, las medidas debes tener en cuenta que cuanto mayor sea el tamaño del cuadrado de papel mayor será el tamaño del caracol. En el vídeo, están las instrucciones para que puedas hacer este caracol paso a paso, es muy sencillo, aunque recuerda que siempre puedes repetir la parte el vídeo que necesites o incluso bajar la velocidad de reproducc",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 195,
+   "stream": "https://escuelita-tv.github.io/media-002/ddh7F7rKwu8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/ddh7F7rKwu8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "otozaL2-Qj0",
+   "title": "Cómo hacer un Gato de papel que salta en origami ¡Fácil!",
+   "description": "Tutorial para hacer un gato de papel saltador en origami, es muy fácil de hacer y ten enseño como hacerlo paso a paso, es muy divertido. Para hacer este gato saltarín de papel necesitamos una hoja de papel y como vamos a utilizar la técnica del origami, lo más importante es que sigas paso a paso las instrucciones de este vídeo, tienes que doblar el papel justo por el lugar que te indico. Recuerda que puedes pausar o repetir el vídeo si lo necesitas. Lo mejor de esta manualidad, es que cuando hayas terminado tu gato de origami podrás hacerle saltar pulsándolo con tu dedo, es así de sencillo.",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 269,
+   "stream": "https://escuelita-tv.github.io/media-002/otozaL2-Qj0/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/otozaL2-Qj0.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
    "id": "yllKalSbf60",
    "title": "Como hacer Gusano de papel fácil en origami",
    "description": "Tutorial para hacer un gusano de papel muy fácil utilizando una hoja de papel y nuestras manos para doblar y plegar ese papel hasta conseguir hacer este simpático gusano. El único material que vamos a necesitar para hacer esta manualidad es una hoja de papel, ya que como se trata de un gusano de origami solo nos hace falta doblar el papel siguiendo paso a paso las instrucciones de este vídeo, así de sencillo. Este gusano también es llamado oruga de papel en algunos países y es una manualidad súper sencilla que puede hacer personas de cualquier tipo de edad. Se puede utilizar para hacer un ta",
@@ -503,6 +575,24 @@
    }
   },
   {
+   "id": "rRJuklxnpAg",
+   "title": "Cómo hacer un pez de origami 3d fácil que abre la boca",
+   "description": "Tutorial para hacer un pez de origami 3d que abre la boca y se mueve, tan solo tienes que presionar con tus dedos y este pez de papel abrirá y cerrará la boca para comerse un pescadito. Para hacer este pez de papel vamos a hacerlo con origami, lo que significa que no necesitarás tijeras, pegamento ni ningún otro material, lo vamos a crear única y exclusivamente doblando el papel con nuestras manos. Es muy importante seguir paso a paso cada una de las instrucciones de este vídeo, ya que si te saltas algún paso puede ser que tu pez no quede como esperabas. La gran novedad que aporta este pez d",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 278,
+   "stream": "https://escuelita-tv.github.io/media-002/rRJuklxnpAg/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/rRJuklxnpAg.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
    "id": "IrN0NaM8w6M",
    "title": "Cómo hacer plumas de papel – Manualidad fácil",
    "description": "Te enseño como hacer plumas de papel, una manualidad muy fácil con la que podrás crear plumas para alas o hacer muchas plumas de colores para utilizar domo decoración. Para hacer una pluma de papel necesitas una hoja de papel, tijeras, pegamento y un trocito de alambre o bien un palito de pinchito. Te recomiendo que utilices papel de colores, así podrás hacer plumas de colores que quedarán mucho más bonitas. Otra opción es realizar las plumas con un folio blanco y después decorarlas con ceras, rotuladores o cualquier tipo de pintura. Hacer estas plumas es muy fácil, solo tienes que recortar",
@@ -521,6 +611,24 @@
    }
   },
   {
+   "id": "8mRGzNTW47Q",
+   "title": "Cómo hacer conitos de papel muy fácil para cumpleaños y fiestas",
+   "description": "Tutorial para aprender a hacer un cono de papel fácil y rápido ideal para utilizar en cumpleaños, fiestas y eventos. Lo puedes hacer tu mismo con tus propias manos y en pocos minutos tendrás un montón de conos de papel para rellenarlos con lo que quieras. Para hacer este cono de papel lo único que necesitas es una hoja de papel y seguir paso a paso las instrucciones de este video, así de sencillo. En menos de un minuto tendrás un cono de papel hecho con tus propias manos. Puedes hacer tantos como quieras. Estos conos tienen la forma de cucurucho de papel y suelen utilizarse para rellenarlos",
+   "topic": "manualidades",
+   "collection": "cumple",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 72,
+   "stream": "https://escuelita-tv.github.io/media-002/8mRGzNTW47Q/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/8mRGzNTW47Q.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
    "id": "zIneQW5-pl0",
    "title": "Cómo hacer una medalla de origami muy fácil",
    "description": "Tutorial para hacer una medalla de origami utilizando una hoja de papel, una idea genial que puedes utilizar para regalar a quien desees o para obsequiar a tu papa en el día del padre. Has leído bien, para hacer esta medalla solo necesitas una hoja de papel, la cual tendrás que plegar sobre si misma siguiendo los pasos que te detallamos en este vídeo. Es muy fácil de hacer y en muy poco tiempo la tendrás lista para regalar. Esta medalla es idea para regalar, puedes entregársela a un amigo especial, puedes entregarla a los campeones de alguna competición o incluso para regalarla en el día del",
@@ -532,6 +640,42 @@
    "durationSec": 195,
    "stream": "https://escuelita-tv.github.io/media-002/zIneQW5-pl0/master.m3u8",
    "thumbnail": "https://escuelita-tv.github.io/feed/img/zIneQW5-pl0.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "sK5sq0B4et0",
+   "title": "Cómo hacer un trofeo de origami para el día del padre",
+   "description": "Tutorial para hacer un trofeo de origami muy fácil de hacer, puedes utilizarlo para regalar en el día del padre o bien para entregar a un amigo o persona especial. Para hacer este trofeo solo necesitas una hoja de papel, tan solo eso. Luego tendrás que doblar el papel paso a paso siguiendo las instrucciones de este vídeo y ya verás como en menos de 5 minutos tienes tu propio trofeo para regalar. Este trofeo es de origami por lo que no necesitas utilizar pegamento, tijeras ni ningún otro material. Te recomiendo que elijas un color de papel llamativo para que quede todavía más bonito o bien qu",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 174,
+   "stream": "https://escuelita-tv.github.io/media-002/sK5sq0B4et0/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/sK5sq0B4et0.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "9NrA3jNxGXw",
+   "title": "Cómo hacer una serpiente de papel deslizante en origami",
+   "description": "Te enseño como hacer una serpiente deslizante de origami con una sola hoja de papel que se desliza y salta cuando la aprietas con tus dedos, es estupenda para pasar un buen rato en familia o con amigos. Esta serpiente de papel es una manualidad muy fácil de hacer, tan solo necesitarás una hoja de papel y doblar el papel con tus propias manos siguiendo las instrucciones de este vídeo. Te recomiendo que sea un papel de color verde que es el color más asociado a las serpientes, aunque realmente puede ser del color que prefieras. Lo mejor de esta manualidad es que puedes hacer varias serpientes",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 272,
+   "stream": "https://escuelita-tv.github.io/media-002/9NrA3jNxGXw/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/9NrA3jNxGXw.jpg",
    "creator": {
     "name": "Manualidades Play",
     "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
@@ -586,6 +730,1914 @@
    "durationSec": 114,
    "stream": "https://escuelita-tv.github.io/media-001/CV4q3VeH3oM/master.m3u8",
    "thumbnail": "https://escuelita-tv.github.io/feed/img/CV4q3VeH3oM.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "BJ0CSf3S39Y",
+   "title": "Cómo hacer un molinillo de viento de papel fácil que gira mucho",
+   "description": "Tutorial para aprender a hacer un molinillo de viento de papel que gira mucho, es muy fácil de hacer, solo tienes que seguir paso a paso las instrucciones de este vídeo. El material para hacer este molinillo es papel, puede ser un folio blanco o bien papeles de colores. Yo te animo a que uses papeles de varios colores o papel estampando, así quedará mucho más bonito. Este molinillo de viento gira mucho cuando sopla el viento, puedes soplar tu mismo o bien puedes colocarlo en tu casa para que el propio aire del viento lo mueva. Si te ha gustado esta manualidad te animo a que veas nuestra li",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 134,
+   "stream": "https://escuelita-tv.github.io/media-002/BJ0CSf3S39Y/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/BJ0CSf3S39Y.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "by-7SvDFYGU",
+   "title": "Cómo hacer Camiseta de fútbol de papel fácil para el Día del Padre",
+   "description": "Tutorial para hacer camisetas de fútbol hechas con papel muy fáciles de hacer, una manualidad estupenda para amantes del fútbol o para regalar a tu padre con su equipo de fútbol favorito en el día del padre. Para hacer esta camiseta de fútbol de papel necesitamos una hoja de papel de tamaño DIN A4 y seguir las instrucciones de este vídeo paso a paso. Se trata de una camiseta de origami por lo que no vas a necesitar utilizar tijeras, pegamento ni ningún otro material, solamente hacen falta tus propias manos para doblar el papel. Lo ideal es hacer la camiseta con un folio blanco, así podemos p",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 115,
+   "stream": "https://escuelita-tv.github.io/media-002/by-7SvDFYGU/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/by-7SvDFYGU.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "4yWSMjat0p0",
+   "title": "Cómo hacer billetera de papel fácil para el día del padre",
+   "description": "Tutorial para hacer una billetera de papel fácil y rápido, un estupendo regalo para el día del padre que le ayudará a tu papa a guardar tus tarjetas y billetes de una forma sencilla. Para hacer esta billetera necesitamos solo una hoja de papel te tamaño Din A4, el cual vamos a doblar con nuestras propias manos hasta conseguir realizar esta manualidad. No vamos a cortar el papel por lo que no hará falta tijeras, incluso se puede realizar sin utilizar pegamento. El color del papel puede ser el que más te guste, incluso un folio blanco que después puedes decorar. También puedes utilizar papel e",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 97,
+   "stream": "https://escuelita-tv.github.io/media-002/4yWSMjat0p0/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/4yWSMjat0p0.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "8Ki35dGsjec",
+   "title": "Cómo hacer Juego de futbol de papel - Fútbol de Origami",
+   "description": "Tutorial para hacer un juego de fútbol de origami en el que podrás tirar un balón de papel a una portería de papel tan solo pulsando el disparador con un dedo. ¿Crees que podrás marcar un gol al potero? Para hacer esta manualidad necesitaremos doblar el papel siguiendo paso a paso las instrucciones de este vídeo, tan solo te hará falta un poco de paciencia. La portería de papel se realiza doblando y recortando cuidadosamente las hojas según el patrón de origami que se detalla en este tutorial. Esta manualidad de fútbol es ideal para los amantes de este deporte ya que podrás pasar un buen rat",
+   "topic": "manualidades",
+   "collection": "clases",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 174,
+   "stream": "https://escuelita-tv.github.io/media-002/8Ki35dGsjec/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/8Ki35dGsjec.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "je0Oa0Ez3Uo",
+   "title": "Origami de papel para San Valentín Fácil",
+   "description": "Te enseño como hacer un origami de papel para San Valentín fácil, es un corazón de papel que al empujar sobre cada uno de sus lados se abre dejando ver un bonito mensaje secreto. Una idea genial para regalar en San Valentín a tu enamorado o enamorada. Para hacer este corazón de origami vamos a necesitar una hoja de papel cuadrado, debes tener en cuenta que cuanto mayor sea el tamaño del papel mayor será el tamaño del corazón, pero mientras tenga las medidas de una cuadrado no habrá problema para realizarlo. Lo mejor de esta manualidad es que el corazón tiene dos partes y cuando lo coges con",
+   "topic": "manualidades",
+   "collection": "madres",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 201,
+   "stream": "https://escuelita-tv.github.io/media-002/je0Oa0Ez3Uo/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/je0Oa0Ez3Uo.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "SeDBYEUcgAU",
+   "title": "Como hacer flores de listón o cinta fáciles y bonitas",
+   "description": "Tutorial para aprender a hacer flores con listón o cinta fáciles, rápidas y bonitas, se trata de rosas de listón que puedes hacer fácilmente con tus propias manos para crear unas flores decorativas que nunca se marchitarán. Para hacer estas flores necesitas listón o cinta de color rojo para los pétalos y de color verde para los sépalos y el tallo. Tienes que recortar la cinta en varias partes según se indican en las instrucciones de este vídeo y luego unirlas y plegarlas entre si utilizando pegamento, cola o incluso el fuego de un mechero. Las flores de cinta o listón son ideales para regala",
+   "topic": "manualidades",
+   "collection": "madres",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 223,
+   "stream": "https://escuelita-tv.github.io/media-002/SeDBYEUcgAU/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/SeDBYEUcgAU.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "v3SE4PZX8V4",
+   "title": "Cómo hacer piruletas de papel fáciles y bonitas",
+   "description": "Manualidad para hacer piruletas de papel fáciles paso a paso, utilizando origami quedan preciosas al combinar diferentes colores. Para hacer estas piruletas necesitas 8 hojas de papel cuadradas, te recomiendo que sean de diferentes colores para que sean mucho más bonitas. Puedes hacerla con dos colores y así se entrelazarán entre si o bien puedes hacerlas con un folio blanco y después decorarlas con rotuladores. La técnica para hacer estas piruletas es origami, que consiste en doblar el papel con tus dedos hasta conseguir la figuras que necesitas. Es muy sencillo y si sigues paso a paso las",
+   "topic": "manualidades",
+   "collection": "cumple",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 129,
+   "stream": "https://escuelita-tv.github.io/media-002/v3SE4PZX8V4/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/v3SE4PZX8V4.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "ivzXcooMWz8",
+   "title": "4 Ideas de Navidad con papel fáciles de hacer",
+   "description": "Ideas de Navidad con papel muy fáciles de hacer, explicadas paso a paso para que puedas hacerlas con tus manos, solo te va a hacer falta papel y seguir paso a paso las instrucciones de este vídeo. Te recomiendo que utilices papel de colores o papel estampado así darás un toque de color a todas estas figuras de papel. Si no tienes, siempre puedes hacerlo en un folio blanco y pintarlo después con rotuladores o ceras. Ideas navideñas con papel: 00:00 Piruleta de papel 01:32 Copo de nieve de papel 02:32 Ángel de papel 03:49 Bola navideña de papel Todas estas ideas son muy fáciles de hacer, te a",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 301,
+   "stream": "https://escuelita-tv.github.io/media-002/ivzXcooMWz8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/ivzXcooMWz8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "_s5WlPVMvtE",
+   "title": "Cómo hacer flores de Nochebuena de foami para Navidad ¡Fácil!",
+   "description": "Tutorial para hacer flor de Nochebuena con foami o goma eva muy fáciles de hacer y explicadas paso a paso, son ideales para adornar tu casa en Navidad. Para que hacer esta flor de nochebuena sea todavía más fácil te dejo en la descripción un enlace con la plantilla que incluye los moldes que yo he utilizado para hacerla, así solo tienes que descargarla y utilizarla tu mismo. Para hacer esta flor necesitarás goma eva o foami de color rojo y verde, que son los colores típicos de la Nochebuena. Necesitarás tijeras para recortar y pegamento para pegar, el resto es muy sencillo, solamente seguir",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 129,
+   "stream": "https://escuelita-tv.github.io/media-002/_s5WlPVMvtE/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/_s5WlPVMvtE.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "H29pxukMXbg",
+   "title": "Decoraciones de navidad con papel – 4 ideas muy fáciles",
+   "description": "En este vídeo te enseño como hacer decoraciones navideñas con papel muy fáciles, se trata de cuatro ideas que puedes hacer tú mismo para hacer una decoración original y creativa en Navidad. El material principal para hacer estos elementos decorativos es el papel, un material muy fácil de encontrar y manipular por todos. En el vídeo se muestra paso por paso como hacer cada una de estas ideas. Puedes utilizar cada uno de estos adornos para colgarlos en tu árbol de Navidad o bien para ponerlo encima de una estantería, mesa o cualquier mueble de tu hogar. Este tipo de decoración demuestra tu tal",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 327,
+   "stream": "https://escuelita-tv.github.io/media-003/H29pxukMXbg/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/H29pxukMXbg.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "ZxutT89ED58",
+   "title": "Cómo hacer calcetines navideños en origami",
+   "description": "Te enseño como hacer calcetines navideños de papel en origami, una manualidad muy fácil de hacer para decorar tu árbol de Navidad o cualquier estancia de tu hogar en la época de Navidad. Para hacer un calcetín de Navidad de papel necesitamos una única hoja de papel, que vamos a doblar con nuestras manos hasta conseguir realizar la figura. Tienes que seguir paso a paso las instrucciones de este video y si te equivocas te recomiendo que vuelvas a empezar con un papel nuevo, ya que de lo contrario quedará un pliegue erróneo en el calcetín. Estos calcetines son unas de las manualidades más utili",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 155,
+   "stream": "https://escuelita-tv.github.io/media-002/ZxutT89ED58/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/ZxutT89ED58.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "MB1MMK1_MAY",
+   "title": "Cómo hacer adornos de Navidad fáciles – 6 ideas",
+   "description": "Tutorial que enseña cómo hacer adornos navideños fáciles todos ellos hechos a manos para que tú mismo puedas hacer estas estupendas manualidades para decorar tu hogar en Navidad. Para hacer estos adornos vamos a utilizar materiales muy económicos, fáciles de manipular y que todos podáis tener por casa. Se trata de hojas de papel, palitos de los oídos y goma eva o foami, además de utilizar tijeras y pegamento para poder hacer cada adorno. Índice con todos los adornos de Navidad 00:08 Corona de papel para Navidad 01:09 Árbol de navidad con hojas de papel 02:36 Copo de nieve con palillos de lo",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 422,
+   "stream": "https://escuelita-tv.github.io/media-003/MB1MMK1_MAY/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/MB1MMK1_MAY.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "zn-nL5yD8_U",
+   "title": "Cómo hacer Gnomos navideños fáciles con papel",
+   "description": "En este tutorial te enseño como hacer un gnomo de navidad muy fácil con papel, una manualidad muy fácil de hacer con la que podrás crear tus propios gnomos navideños para decorar tu casa en las fiestas de Navidad. Para hacer gnomos de papel vamos a necesitar tres hojas de papel cuadrado del mismo tamaño, las cuales vamos a doblar siguiendo las instrucciones de este vídeo paso a paso hasta conseguir la figura del gnomo. Para hacer todo el cuerpo, cabeza y gorro del gnomo no vamos a necesitar pegamento ya que vamos a realizar todas estas partes con origaimi o papiroflexia, ya que es la forma m",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 182,
+   "stream": "https://escuelita-tv.github.io/media-003/zn-nL5yD8_U/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/zn-nL5yD8_U.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "BJZRohDabWg",
+   "title": "Cómo hacer una caja de papel para regalo muy fácil",
+   "description": "Tutorial para hacer una caja de papel para regalo muy fácil y paso a paso, es una manualidad muy sencilla con la que podrás hacer cajitas de papel donde guardar cualquier obsequio para regalar. Para hacer esta caja de papel utilizaremos dos hojas de papel, la cuales debes doblar siguiendo las instrucciones paso a paso de este video. Estas dos hojas de papel formarán las dos partes de la caja utilizando origami, es decir, que no vamos a necesitar tijeras ni pegamento. Después vamos a utilizar tres tiras de papel de 1 centímetro para realizar la decoración de la caja, así quedará mucho más bon",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 201,
+   "stream": "https://escuelita-tv.github.io/media-003/BJZRohDabWg/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/BJZRohDabWg.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "oNxM9INAhMQ",
+   "title": "Cómo hacer un dragón de papel fácil en origami",
+   "description": "Tutorial que enseña cómo hacer un dragón de papel fácil en origami, una manualidad muy fácil de hacer con la que conseguirás crear tu propio dragón paso a paso utilizando tan solo una hoja de papel, así de sencillo. Para hacer el dragón necesitas una hoja de papel cuadrada, tiene que tener el mismo alto que ancho. Las medidas son indiferentes, solo tienes que tener en cuenta que cuando mayor sea el tamaño del papel mayor será el tamaño del dragón. Puedes utilizar papel de origami, papel scrapbook, papel de colores o incluso un folio blanco. Al tratarse de una figura de origami, no necesitas",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 398,
+   "stream": "https://escuelita-tv.github.io/media-003/oNxM9INAhMQ/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/oNxM9INAhMQ.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "denHB6InVQI",
+   "title": "Cómo hacer uñas de papel fáciles en origami ¡Sin pegamento!",
+   "description": "Tutorial que enseña cómo hacer uñas de papel fáciles en origami, eso significa que podrás hacer unas uñas de papel tan largas o cortas como tú quieras sin utilizar pegamento, tan solo necesitas papel. Para hacer esta uñas necesitas papel, te recomiendo utilizar papel de colores para que quede más bonito e incluso papel estampado o papel de diferentes colores para cada uñas. También puedes hacerlo con folios blancos, pero en este caso lo mejor sería decorar las uñas con rotulador, ceras o similar. Estas uñas de papel son estupendas para utilizarlas en fiestas, eventos, fiestas de disfraces, o",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 88,
+   "stream": "https://escuelita-tv.github.io/media-003/denHB6InVQI/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/denHB6InVQI.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "LRR9RugCI2k",
+   "title": "Canasta de papel fácil de hacer paso a paso en origami",
+   "description": "Te enseño como hacer una cesta o canasta de papel fácil de hacer, es muy sencillo y puedes utilizarla como decoración o para llevar pequeños objetos dentro de ella. Para hacer la canasta necesitas una hoja de papel de tamaño cuadrado, yo he utilizado un papel de 15x15 centímetros, pero puedes hacerlo del tamaño que tu prefieras, solo tienes que tener en cuenta que cuanto más grande sea el papel mayor será el tamaño de la canasta. También necesitas un trozo de papel de 15x4 centímetros para hacer el asa de la canasta. En el tutorial te enseño como hacer una canasta de origami, lo que signific",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 264,
+   "stream": "https://escuelita-tv.github.io/media-003/LRR9RugCI2k/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/LRR9RugCI2k.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "vLt7ISPq_Yw",
+   "title": "Cómo hacer un tiburón de papel fácil en origami",
+   "description": "Tutorial que te enseña como hacer un tiburón de papel paso a paso en origami, es muy fácil de hacer, solo tienes que doblar el papel con tus propias manos siguiendo las instrucciones de este vídeo. ¿Te animas a hacerlo? Para hacer este tiburón de origami hace falta una hoja de papel de tamaño cuadrado, es decir, que mida lo mismo de ancho que de alto. Para conseguir hacer el tiburón vamos a plegar el papel sobre si mismo siguiendo este tutorial y ten en cuenta que no vas a necesitar ni pegamento ni tijeras ya que se trata de una figura de origami. Una vez terminada la figura del tiburón, te",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 498,
+   "stream": "https://escuelita-tv.github.io/media-003/vLt7ISPq_Yw/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/vLt7ISPq_Yw.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "6BYOYmtFoZM",
+   "title": "Cómo hacer un loro de papel fácil en origami",
+   "description": "En este tutorial te enseño como hacer un loro de papel fácil en origami, solo tienes que doblar el papel y tendrás este precioso pájaro de papel. Para hacer el loro de origami necesitamos una hoja de papel, puede hacerlo con papel de colores, papel estampado o incluso con un folio blanco. Si eliges una hoja de papel blanco te recomiendo que luego pintes los detalles con rotuladores para que quede más realista. Al tratarse de una figura de origami no necesitarás pegamento, solo tienes que seguir paso a paso las instrucciones de este vídeo, doblando el papel según se indica en el tutorial. No",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 552,
+   "stream": "https://escuelita-tv.github.io/media-003/6BYOYmtFoZM/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/6BYOYmtFoZM.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "2LJyw-GOukA",
+   "title": "Cómo hacer un Triangulo de papel 3D en origami ¡Fácil!",
+   "description": "Tutorial que te enseña cómo hacer un triangulo 3d de papel en origami, una técnica con la que conseguirás crear tu propio triangulo sin necesidad de utilizar tijeras ni pegamento. Para hacer este triangulo necesitas 3 hojas de papel en forma de cuadrado (que tengan la misma medida de ancho que de alto) y nada más, no será necesarias otras herramientas como tijeras para cortas o pegamento para pegar, ya que al ser un triangulo de origami lo haremos doblando y plegando el papel sobre sí mismo. Puedes utilizar un folio blanco o papel de colores, incluso puedes elegir tres colores diferentes par",
+   "topic": "manualidades",
+   "collection": "clases",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 157,
+   "stream": "https://escuelita-tv.github.io/media-003/2LJyw-GOukA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/2LJyw-GOukA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "aUm4BCP8xhw",
+   "title": "Cómo hacer un CUBO infinito de papel ¡Fácil!",
+   "description": "Tutorial que enseña como hacer un cubo infinito de papel papel fácil paso a paso, se trata de un cubo de origami que parece mágico ya que puedes mover sus piezas con las manos de forma infinita y nunca se termina. Para hacer el cubo infinito primero necesitarás hacer 8 cubos, cada uno de ellos tiene 6 caras diferentes por lo que necesitarás 48 hojas cuadradas. Después hay que unir los 8 cubos formando un único cubo de papel de mayor tamaño, que será nuestro cubo infinito. Es muy importante la colocación y unión de los cubos pequeños, ya que de ella depende que tu cubo pueda moverse de forma",
+   "topic": "manualidades",
+   "collection": "clases",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 379,
+   "stream": "https://escuelita-tv.github.io/media-003/aUm4BCP8xhw/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/aUm4BCP8xhw.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "KV6rZ9rWQyA",
+   "title": "Cómo hacer una canasta de baloncesto de papel ¡Fácil!",
+   "description": "Tutorial para hacer una canasta de baloncesto de papel en origami, es muy fácil de hacer y puedes utilizarlas para encestar tus propias canastas con una bola de papel. Con esta manualidad vamos a crear un aro de baloncesto de papel y también un sistema de catapulta que impulse una pelota de papel con la que podremos hacer canasta. Se realiza mediante origami, así que no necesitas ningún elemento adicional ni material para hacer el sistema de propulsión, solamente doblar el papel como se indica en este tutorial. Para hacer la canasta de baloncesto tienes que seguir paso a paso las instruccion",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 211,
+   "stream": "https://escuelita-tv.github.io/media-003/KV6rZ9rWQyA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/KV6rZ9rWQyA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "CMGMvL7YRVo",
+   "title": "Cómo hacer corazones de papel seda o china ¡Fácil!",
+   "description": "Te enseño como hacer un corazón de papel china o papel de seda, es muy esponjoso y decorativo, sin duda una manualidad estupenda para hacer una decoración amorosa el 14 de febrero o para una cena romántica junto a tu pareja. Para hacer esta manualidad necesitaremos papel china, también llamado papel de seda, cartón, tijeras, pegamento y un lazo. Primero recortamos la figura de corazón y después con mucha paciencia tendremos que ir pegando trozos de papel de seda hasta que quede cubierto todo el corazón. Aunque hacer este corazón lleva tiempo, el resultado es precioso. Tanto al tacto como a l",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 137,
+   "stream": "https://escuelita-tv.github.io/media-003/CMGMvL7YRVo/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/CMGMvL7YRVo.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "GajveTG116c",
+   "title": "Cómo hacer flores de papel de seda ¡Fácil y paso a paso! 4 FORMAS DISTINTAS",
+   "description": "Tutorial que enseña cómo hacer flores de papel de seda, también llamado papel china. Es muy fácil de hacer y te enseño como puedes hacerlas tu mismo paso a paso. Podrás aprender a hacer cuatro modelos distintos en los que variará la forma de los pétalos. ¿Cuál de ellas te gusta más? Para hacer estas flores necesitas papel de seda o papel china, tijeras e hilo. Solo tienes que seguir paso a paso las instrucciones de este vídeo y en pocos minutos tendrás tus propias flores hechas. Como verás, el proceso de realización es muy simple, cualquiera pueda hacerlas, solo tienes que tener paciencia,",
+   "topic": "manualidades",
+   "collection": "flores",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 134,
+   "stream": "https://escuelita-tv.github.io/media-003/GajveTG116c/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/GajveTG116c.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "S59puKUb004",
+   "title": "Cómo hacer un dado de papel ¡Fácil!",
+   "description": "Tutorial que enseña cómo hacer un dado de papel fácil sin pegamento, solo necesitas una hoja de papel y doblar el papel paso a paso siguiendo las instrucciones de este vídeo. El único material que necesitas para hacer este dado es una hoja de papel, al tratarse de un dado de origami no necesitarás pegamento, solo tienes que plegar el papel siguiendo los pasos de este tutorial. Cuando hayas terminado de formar el dado, tendrás que pintar los 6 lados del dado con un rotulador, indicando en cada uno de ellos la numeración del 1 al 6, esto es imprescindible para poder utilizarlo. El dado tiene",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 135,
+   "stream": "https://escuelita-tv.github.io/media-003/S59puKUb004/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/S59puKUb004.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "NdpAcRWN1gk",
+   "title": "Cómo hacer un corazón con lazo para el día de la madre ¡Fácil!",
+   "description": "Te enseño como hace un corazón para el día de la madre, una manualidad muy fácil para regalar a tu mama, seguro que las sorprendes. El único material que necesitas es una hoja de papel, re recomiendo que sea de color rojo o rosa, y que suelen ser los colores más utilizados para representar una manualidad de corazón, aunque realmente puedes hacerlo que el tipo de papel que tú prefieras (incluso un folio blanco que luego puedes decorar). Este regalo para el día de la madre se trata de un corazón con lazo en origami, lo bueno de hacer el corazón mediante la técnica japonesa del origami es que n",
+   "topic": "manualidades",
+   "collection": "madres",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 311,
+   "stream": "https://escuelita-tv.github.io/media-003/NdpAcRWN1gk/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/NdpAcRWN1gk.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "IZDsERRY5Wk",
+   "title": "Cómo hacer una zanahoria de papel fácil para Pascua",
+   "description": "Te enseño como hacer una zanahoria de papel muy fácil de hacer, es una manualidad de pascua sencilla con la que podrás hacer tus propias zanahorias. Los materiales para hacer esta zanahoria son hojas de papel, evidentemente te aconsejo que utilices papel de color naranja para hacer la zanahoria y papel de color verde para hacer las hojas. Al tratarse de una zanahoria de origami no necesitas utilizar tijeras ni pegamento, solo necesitas seguir paso a paso las instrucciones de este tutorial y doblar el papel por el punto exacto que se indica en el vídeo. Esta zanahoria es muy fácil de hacer",
+   "topic": "manualidades",
+   "collection": "pascua",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 120,
+   "stream": "https://escuelita-tv.github.io/media-003/IZDsERRY5Wk/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/IZDsERRY5Wk.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "ZVi5n5TRkhY",
+   "title": "Cómo hacer un porta retrato para el día del padre ¡Fácil!",
+   "description": "Tutorial que enseña como hacer un porta retrato para el día del padre muy fácil con goma eva o foami, tiene forma de camisa y es un regalo estupendo para tu papa hecho con manualidades. Este portaretrato es ideal para regalar a tu papa ya que tiene forma de camisa, incluso tiene una pajarita anudada en el cuello de la camisa. Puedes hacerlo tú mismo siguiendo las instrucciones de este vídeo, es muy sencillo y te lo explico todo paso a paso. El material que vamos a necesitar es goma eva o foami, puedes elegir un color para la camisa y otro para la pajarita, así quedará mucho más bonito. Te h",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 149,
+   "stream": "https://escuelita-tv.github.io/media-003/ZVi5n5TRkhY/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/ZVi5n5TRkhY.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "BMwg3a_ILy0",
+   "title": "Cómo hacer gorro de Chef con cartulina ¡Fácil!",
+   "description": "Tutorial para hacer un gorro de chef con cartulina fácil y bonito, una manualidad estupenda para utilizar como complemento en tu disfraz de chef e incluso para colocártelo en tu propia cocina. Para realizar este gorro vamos a utilizar cartulina, ya que es más resistente que el papel. Te recomiendo que la cartulina sea de color blanco, ya que los gorros de cocinero suelen ser de color blanco. Como herramientas necesitarás tijeras y pegamento. Después solo tienes que seguir las instrucciones de este vídeo paso a paso, cortando y pegando según se detalla en el mismo. En poco tiempo tendrás un",
+   "topic": "manualidades",
+   "collection": "cumple",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 94,
+   "stream": "https://escuelita-tv.github.io/media-002/BMwg3a_ILy0/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/BMwg3a_ILy0.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "U43XcNAdP6Q",
+   "title": "Caja regalo para san Valentín muy fácil de hacer",
+   "description": "Te enseño como hacer una caja regalo para San Valentín muy fácil de hacer, además tiene sorpresa ya que en su interior puedes añadir fotos, mensajes y el regalo con el que quieras obsequiar a tu pareja el día de San Valentín. Para hacer esta caja regalo necesitaremos cartulina de varios colores, yo he utilizado rojo y blanco ya que son los colores más representativos del día de los enamorados. Vamos a recortar y pegar, por lo que necesitarás también tijeras y pegamento, junto a una regala para tomar las medidas correctas. La caja está decorada en sus lados con unos corazones, que están recor",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 113,
+   "stream": "https://escuelita-tv.github.io/media-003/U43XcNAdP6Q/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/U43XcNAdP6Q.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "YcHvQqetKoQ",
+   "title": "Cómo hacer una carta en forma de corazón ¡Fácil!",
+   "description": "Te voy a enseñar cómo hacer una carta en forma de corazón utilizando papel, es una manualidad muy fácil de hacer que puedes utilizar para regalar a tu novio o pareja en San Valentín o para obsequiar a cualquier persona especial. Para hacer esta carta que doblaremos en forma de corazón, solo hace falta una hoja de papel (aunque también puedes utilizar cartulina si quieres que quede más resistente). Una vez que hayas escrito y decorado tu carta, solo tienes que seguir las instrucciones de este tutorial paso a paso para doblar el papel en forma de corazón. Como verás en ningún momento vamos a u",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 156,
+   "stream": "https://escuelita-tv.github.io/media-003/YcHvQqetKoQ/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/YcHvQqetKoQ.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "xuDPPEHZ05Q",
+   "title": "Cómo hacer una tarjeta para San Valentín fácil y bonita",
+   "description": "Tutorial para hacer una tarjeta de San Valentín fácil y bonita, hecha a mano por ti mismo y con un efecto 3d (tres dimensiones) que seguro que sorprende a tu novio o pareja. Para hacer esta tarjeta necesitarás cartulina, papel de seda y tijeras y pegamento. Solo tienes que seguir paso a paso las instrucciones de este video y en pocos minutos tendrás una tarjeta de San Valentín 3d fácil hecha por ti mismo. Para esta manualidad hemos utilizado papel de color rojo, que simboliza el amor y dará color a la figura del corazón. Puedes personalizarla a tu gusto y elegir tanto los colores como los m",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 186,
+   "stream": "https://escuelita-tv.github.io/media-003/xuDPPEHZ05Q/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/xuDPPEHZ05Q.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "cz5IbFb_DtA",
+   "title": "Cómo hacer una carta de San Valentín fácil y creativa",
+   "description": "Te enseño una idea para hacer cartas de San Valentín fáciles y bonitas, una manualidad para el 14 de febrero muy sencilla de realizar con la que conseguirás sorprender a tu pareja. Para hacer esta carta necesitarás una hoja de papel, puede ser un folio pero te recomiendo que sea de color rojo ya que es el color asociado al amor. Sigue los pasos y dobla el papel según la explicación, una vez que tenga la forma de la carta solamente debes incluir los detalles que quieras y ponerle un mensaje bonito y romántico. Con este tutorial conseguirás hacer una carta de amor para San Valentín de una form",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 104,
+   "stream": "https://escuelita-tv.github.io/media-003/cz5IbFb_DtA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/cz5IbFb_DtA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "YH3mKIq7HMc",
+   "title": "Como hacer flores de papel crepe para San Valentín ¡Fácil!",
+   "description": "Tutorial para hacer flores de papel para San Valentín, para que hagas un bonito ramo de rosas rojas de papel crepe para regalar a tú pareja, novio o novia en el día de los enamorados. Para hacer estas flores vamos a necesitar hojas de papel crepe, te aconsejo que sea papel crepe de color rojo, ya que es el más utilizado para simbolizar el amor en el día de San Valentín, al hacer alusión a las rosas rojas, que suele ser uno de los regalos más utilizados el 14 de febrero. En este vídeo, tienes un tutorial detallado que enseña cómo hacer una flor de papel crepe fácil y rápida, solo tienes que",
+   "topic": "manualidades",
+   "collection": "flores",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 191,
+   "stream": "https://escuelita-tv.github.io/media-004/YH3mKIq7HMc/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/YH3mKIq7HMc.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "vO8rfK7i-s8",
+   "title": "Corazón de papel 3d - Origami para san Valentín",
+   "description": "Aprende como hacer un corazón de papel 3d para celebrar San Valentín el 14 de Febrero, una figura de origami muy fácil de hacer con la que podrás hacer un regalo hecho a mano a tu novio o pareja. Para hacer este corazón de origami 3d (tres dimensiones), necesitarás una hoja de papel en forma de cuadrado, es decir, que tenga la misma medida de ancho y alto. Te recomiendo que utilices un papel de color rojo, ya que suele ser el color asociado a los corazones, al amor y a la festividad de San Valentín. Para hacer este corazón 3d solo tienes que seguir paso a paso las instrucciones de este vídeo",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 259,
+   "stream": "https://escuelita-tv.github.io/media-004/vO8rfK7i-s8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/vO8rfK7i-s8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "fhNMg4SxaUc",
+   "title": "Cómo hacer un CUBO de papel en origami ¡Sin cortar ni pegar!",
+   "description": "Tutorial para hacer un cubo de origami con una hoja de papel, es muy fácil de hacer y se realiza sin pegamento ni tijeras, tan solo tus manos para doblar el papel según se indican en las instrucciones de este vídeo. Lo más importante de este cubo de papel, es que al hacerse mediante la técnica del origami, no vas a necesitar utilizar una plantilla, molde u otras herramientas. Solo te hace falta una sola hoja de papel que irás doblando y plegando sobre sí misma, así de sencillo. Puedes utilizar cualquier tipo de papel, desde el típico folio blanco hasta papeles de colores o estampados. En cua",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 202,
+   "stream": "https://escuelita-tv.github.io/media-004/fhNMg4SxaUc/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/fhNMg4SxaUc.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "RRacRyDFDoI",
+   "title": "Cómo hacer un cañón de confeti ¡Muy fácil!",
+   "description": "Tutorial que enseña como hacer un cañón de confeti muy fácil paso a paso, una manualidad estupenda para lanzar confeti en Año Nuevo o cualquier otra fiesta. Para hacer este cañón de confeti casero utilizaremos material reciclado, principalmente un tubo de cartón, que puede ser el tubo de cartón de los rollos de papel higiénico o incluso el cartón en forma de cilindro que utilizan algunas marcas para guardar las patatas fritas. También necesitaremos un globo y como no podría ser de otra forma, el confeti. Tienes que seguir paso a paso las instrucciones de este tutorial, una vez que tengas cre",
+   "topic": "manualidades",
+   "collection": "cumple",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 77,
+   "stream": "https://escuelita-tv.github.io/media-004/RRacRyDFDoI/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/RRacRyDFDoI.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "55gElF-1gNU",
+   "title": "Cómo hacer piñatas navideñas fáciles ¡Incluye Moldes!",
+   "description": "Tutorial que enseña como hacer una piñata para Navidad paso a paso con la forma de Santa Claus, una manualidad estupenda para disfrutar de forma divertida de las fiestas navideñas. Los materiales para hacer esta piñata son cartón, papel crepé y la plantilla con los moldes de la cara de Santa Claus, que puedes descargar fácilmente desde el enlace que te dejo al final de esta descripción. La piñata tiene la forma de Santa Claus, sin duda una de las imágenes más navideñas y reconocible por todos. Es muy fácil de hacer y para decorarla solo tendrás que cortar tiras de papel crepé en rojo y blanc",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 206,
+   "stream": "https://escuelita-tv.github.io/media-004/55gElF-1gNU/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/55gElF-1gNU.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "NURgdhSPu4s",
+   "title": "Cómo hacer faroles navideños fáciles ¡Incluye moldes!",
+   "description": "Te enseño como hacer faroles para Navidad paso a paso con cartón y cartulina, es muy fácil de hacer y además incluye una plantilla con los moldes, para que sea mucho más sencillo hacer tu propio farol de Navidad. Para hacer tus propios farolillos navideños necesitarás cartulina y un tubo de cartón, de esta forma haremos tanto la parte del farol donde se encuentra la luz, como el pie del mismo que puede ir hasta el suelo. Lo mejor es utilizar colores rojo y blanco, ya que son los colores más representativos de la Navidad. En el vídeo tienes las instrucciones para hacer paso a paso este farol",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 134,
+   "stream": "https://escuelita-tv.github.io/media-004/NURgdhSPu4s/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/NURgdhSPu4s.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "8mQ7GeOVSf8",
+   "title": "Cómo hacer bastones navideños fáciles para decorar el árbol de Navidad",
+   "description": "Tutorial para aprender a hacer bastones de Navidad para decorar tu árbol de Navidad, son fáciles de hacer con foami y quedan preciosos para hacer una decoración navideña original y personalizada. Con esta manualidad vas a poder crear tus propios bastones navideños con foami o goma eva, son muy sencillos de realizar, además en este vídeo te damos las instrucciones para que puedas hacerlo paso a paso. El material principal que vamos a necesitar es foami. Nosotros hemos elegido el color blanco para hacer el bastón y después lo hemos adornado con tiras de color azul, aunque puedes usar el color",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 233,
+   "stream": "https://escuelita-tv.github.io/media-004/8mQ7GeOVSf8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/8mQ7GeOVSf8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "jJ9d1D0v4c8",
+   "title": "Cómo hacer Cascanueces para Navidad ¡Fácil! - Decoración de Navidad",
+   "description": "Tutorial que enseña cómo hacer un Cascanueces para Navidad con cartón, una manualidad navideña estupenda para decorar la casa de forma original con material reciclable. Vamos a hacer la estructura del cuerpo del cascanueces de cartón, utilizando tubos de cartón que puedes encontrar reciclando los tubos de cartón de los rollos de papel higiénico, los tubos de cartón de patatas fritas o cualquier otro cartón. Una vez que tengas la forma del cascanueces con cartón llega el momento de añadir los detalles, para ello vamos a utilizar goma eva o cartulina, de esta forma podremos personalizar el col",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 271,
+   "stream": "https://escuelita-tv.github.io/media-004/jJ9d1D0v4c8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/jJ9d1D0v4c8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "HqdvI9WCfFU",
+   "title": "Cómo hacer muñeco de jengibre navideño con papel ¡Fácil!",
+   "description": "Aprende como hacer un muñeco de jengibre navideño con papel, una estupenda manualidad con la que crear una decoración navideña única y personalizada. El único material que necesitarás para hacer el muñeco de jengibre es una hoja de papel de tamaño cuadrado. Como las galletas de jengibre suelen ser de color marrón o tonos anaranjados te recomiendo que utilices una hoja de papel que tenga ese color, así quedará mucho más bonito. Este muñeco en forma de galleta de jengibre se ha realizado con la técnica del origami, por lo que no vas a necesitar utilizar pegamento ni tijeras, tan solo necesitas",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 287,
+   "stream": "https://escuelita-tv.github.io/media-004/HqdvI9WCfFU/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/HqdvI9WCfFU.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "oL6DuNQ4nB8",
+   "title": "Cómo hacer angelitos para Navidad de papel ¡Fácil!",
+   "description": "En este tutorial te enseño como hacer angelitos de Navidad con papel paso a paso, una manualidad estupenda para decorar tu casa en las fiestas navideñas con ángeles de papel hecho por ti mismo. El material para hacer esta manualidad serán dos hojas de papel de tamaño cuadrado, puedes elegir folios blancos o bien papel de colores. No es necesario utilizar tijeras ni pegamento, ya que se trata de un ángel de origami que se realiza doblando y plegando el papel, así que solo tienes que seguir las instrucciones de este vídeo, es súper fácil. Puedes utilizar estos angelitos para utilizar como dec",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 303,
+   "stream": "https://escuelita-tv.github.io/media-004/oL6DuNQ4nB8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/oL6DuNQ4nB8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "pumI8sHD4h8",
+   "title": "Cómo hacer Flor de Cempasúchil con papel crepé ¡Fácil!",
+   "description": "Aprende como hacer la flor de Cempasúchil con papel crepé, es muy fácil de hacer y puedes utilizarla para el Día de Muertos, hacer un regalo o para utilizar como decoración. Para hacer el Cempasúchil utilizaremos un pliego de papel crepé del color de la flor que quieras hacer, normalmente será de color amarillo, naranja o amarillo anaranjado ya que el color típico del cempasúchil, también llamado Tagetes en México o Marigold en otros lugares. Además necesitarás un trozo de papel crepé de color verde para hacer el tallo y los sépalos de la flor. Es muy fácil de hacer, solo tienes que seguir p",
+   "topic": "manualidades",
+   "collection": "flores",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 188,
+   "stream": "https://escuelita-tv.github.io/media-004/pumI8sHD4h8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/pumI8sHD4h8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "Cfhm4stHV6U",
+   "title": "Cómo hacer un Unicornio de papel fácil en origami",
+   "description": "Tutorial para hacer un unicornio de papel fácil en origami paso a paso, es muy fácil de hacer y queda muy bonito para utilizarlo como figura decorativa. Vamos a hacer la figura del unicornio de origami, por lo que no vas a necesitar tijeras ni pegamento, solo necesitas doblar el papel siguiendo paso a paso las instrucciones de este tutorial. Es muy fácil y no tiene perdida. Para hacer el cuerpo del unicornio necesitamos una hoja de papel de 21 centímetros de lado en forma cuadrada y para hacer el cuerno del unicornio otro papel de 8x4 centímetros. Estos son los dos únicos materiales que vas",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 438,
+   "stream": "https://escuelita-tv.github.io/media-004/Cfhm4stHV6U/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/Cfhm4stHV6U.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "ABIQbsGxhXQ",
+   "title": "Cómo hacer lentes de sol de papel ¡Fácil!",
+   "description": "Te enseño como hacer unas lentes de sol de papel muy fáciles de hacer, son muy cool y bonitas. Para hacer tus lentes de papel solo tienes que seguir paso a paso las instrucciones de este tutorial. No necesitarás pegamento, tijeras ni ningún otro material ya que al hacer las lentes de origami solo necesita plegar el papel según se indica en el vídeo, así de sencillo. El material que vamos a utilizar es una hoja de papel, puede ser un folio blanco o papel de colores, yo te aconsejo que lo hagas con papel de tu color preferido así quedarán mucho más bonitas. Puedes utilizar estas lentes o gaf",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 109,
+   "stream": "https://escuelita-tv.github.io/media-004/ABIQbsGxhXQ/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/ABIQbsGxhXQ.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "B1O8s8Dv-co",
+   "title": "Cómo hacer un boomerang de papel fácil",
+   "description": "Tutorial que enseña cómo hacer un boomerang de papel fácil, que vuela mucho y regresa a tus manos, una manualidad sencilla con la que puedes hacer tu boomerang personalizado. El único material que vamos a necesitar para hacer este boomerang son hojas de papel, no necesita pegamento ni ninguna otra herramienta. Esto es gracias a que es un boomeran de origami, solo deberás seguir las instrucciones de este vídeo paso a paso y doblar el papel por los pliegues que se indican. Ya verás como en pocos minutos lo tienes terminado. Cuando tires el boomerang verás que regresa a tu mano, pero antes deb",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 202,
+   "stream": "https://escuelita-tv.github.io/media-004/B1O8s8Dv-co/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/B1O8s8Dv-co.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "6_pof1BZ4tc",
+   "title": "Cómo hacer un abanico de papel fácil y bonito",
+   "description": "Tutorial que muestra como hacer un abanico de papel fácil y bonito que además se puede guardar muy fácilmente para que no se estropee. Hacer este abanico de papel es muy sencillo, solo necesitas dos hojas de papel y dos palitos de maderas, que pueden ser palito de helado o similares. Debes doblar el papel siguiendo paso a paso las instrucciones de este vídeo para después pegarlo con pegamento o silicona a los palitos de madera. O también, puedes doblar una tira de papel en forma de palito para sustituir a los palitos de helado. Como ves, puedes personalizar por completo este abanico con los",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 77,
+   "stream": "https://escuelita-tv.github.io/media-004/6_pof1BZ4tc/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/6_pof1BZ4tc.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "UiDD8SyRQ08",
+   "title": "Cómo hacer un sombrero de cartulina ¡Fácil!",
+   "description": "Tutorial que enseña como hacer un sombrero de cartulina paso a paso, es muy fácil de hacer y podrás hacerlo tú mismo con tus propias manos. Para hacer el sombrero utilizaremos cartulina de color negro o el color que prefieras, tijeras y pegamento o silicona. Solo tienes que seguir paso a paso las instrucciones de ese vídeo para conseguir hacer tu propio sombrero personalizado. Es muy sencillo, solo tienes que tener en cuenta las medidas de la cabeza de la persona que se vaya a poner el sombrero. En el vídeo hemos utilizado cartulina porque es el material más resistente, fácil de manipular y",
+   "topic": "manualidades",
+   "collection": "cumple",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 199,
+   "stream": "https://escuelita-tv.github.io/media-004/UiDD8SyRQ08/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/UiDD8SyRQ08.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "XIeeoP9PD6Q",
+   "title": "Caja explosiva paso a paso para el día del padre ¡Fácil!",
+   "description": "Te enseño como hacer una caja explosiva paso a paso para regalar a tu papa en el día del padre. Es muy fácil de hacer solo tienes que seguir las instrucciones de este tutorial. El material principal para hacer esta caja explosiva es cartulina. En el vídeo te muestro como debes recortarla y pegarla hasta conseguir hacer una caja sorpresa que se pliega sobre si misma hasta cerrarse. La caja tiene una tapa, cuando la abras, la caja se abrirá sola de forma automática como si fuese una explosión, sorprendiendo a todos los que lo vean. Este efecto sorpresa es lo que hace que esta caja de regalo s",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 259,
+   "stream": "https://escuelita-tv.github.io/media-004/XIeeoP9PD6Q/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/XIeeoP9PD6Q.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "dplI9MFKMmY",
+   "title": "Cómo hacer una carta para el día del Padre ¡Fácil!",
+   "description": "Te enseño como hacer una carta para el día del padre muy fácil de hacer con una hoja de papel, es un regalo sencillo y bonito que seguro que le encanta a tu papa. El único material que vamos a utilizar para hacer esta carta es una hoja de papel, yo he utilizado un folio en blanco. Tienes que dólar el papel siguiendo las instrucciones de este tutorial paso a paso y así conseguirás hacer una carta que se despliega fácilmente al abrirla. Una vez tengas la forma de tu carta solamente te quedará escribirle el mensaje de felicitación que más te guste, puedes utilizar rotuladores o ceras y recuerda",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 107,
+   "stream": "https://escuelita-tv.github.io/media-004/dplI9MFKMmY/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/dplI9MFKMmY.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "IEEwHjP7dcw",
+   "title": "Cómo hacer una tarjeta para el día del padre mágica y fácil",
+   "description": "Tarjeta para el día del padre mágica con acetato que cambiar de color, se trata de un regalo fácil y bonito con el que seguro que consigues sorprender a todos. Para hacer nuestra tarjeta mágica vamos a necesitar los siguientes materiales: - Cartulina - Acetato - Tijeras y pegamento - Rotuladores o ceras Como ves en el vídeo, el efecto que provoca esta tarjeta mágica es que cuando sacas la tarjeta del marco cambia de color y cuando la vuelves a meter se vuelve blanco y negro. Seguro que causas gran expectación y todos te preguntan cómo has hecho esta tarjeta. Esta tarjeta es ideal para rega",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 133,
+   "stream": "https://escuelita-tv.github.io/media-004/IEEwHjP7dcw/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/IEEwHjP7dcw.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "ZCCuyjJ-lLo",
+   "title": "Cómo hacer un cisne de papel fácil en origami",
+   "description": "Tutorial que enseña cómo hacer un cisne de papel paso a paso, una figura de papel muy sencilla que puedes hacer tú mismo doblando y plegando una hoja de papel. Para hacer este cisne necesitarás una hoja de papel cuadrada, es decir, que tenga la misma medida de ancho que de alto. Puedes utilizar papel de colores o incluso un folio blanco y después pintar los detalles de la cara del cisne, como pueden ser los ojos, pico y plumas. El tamaño del cisne varía dependiendo del tamaño del papel que utilices, cuanto más grande sea el papel mayor tamaño tendrá tu cisne. Pero es muy importante que siemp",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 301,
+   "stream": "https://escuelita-tv.github.io/media-004/ZCCuyjJ-lLo/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/ZCCuyjJ-lLo.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "afr0QRmz3VM",
+   "title": "Cómo hacer un vestido de origami fácil con una hoja de papel",
+   "description": "Tutorial que enseña como hacer un vestido de origami con una hoja de papel, es muy fácil de realizar, tan solo tienes que de doblar el papel siguiendo paso a paso las instrucciones de este vídeo y en menos de 5 minutos tendrás un estupendo vestido de papel. Para hacer esta manualidad necesitas una hoja de papel en forma de cuadrado, puedes elegir papel de colores, papel estampado, etc. Elige el color del papel que más te guste para realizar el vestido o bien hazlo con un folio en blanco y luego decóralo con rotuladores. Puedes utilizar este vestido para adornar una felicitación, como por eje",
+   "topic": "manualidades",
+   "collection": "madres",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 243,
+   "stream": "https://escuelita-tv.github.io/media-004/afr0QRmz3VM/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/afr0QRmz3VM.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "rIz1m8M7Lyc",
+   "title": "Cómo hacer una rosa con una tira de papel ¡Fácil!",
+   "description": "Tutorial que enseña cómo hacer una rosa de papel utilizando una tira de papel o cartulina, una forma muy fácil de hacer flores de papel para regalar o decorar. Lo mejor es que al ser de papel no se marchita y perdurará para siempre. El tipo de papel que vamos a utilizar para hacer esta flor es papel grueso o cartulina, a ser posible es mejor utilizar cartulina o papel de color, normalmente rojo para hacer rosas rojas o bien del color que prefieras. Como verás, gracias a esta técnica en la que enrollarás la tira de papel sobre sí misma, conseguirás una preciosa rosa de papel fácil de hacer,",
+   "topic": "manualidades",
+   "collection": "flores",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 191,
+   "stream": "https://escuelita-tv.github.io/media-004/rIz1m8M7Lyc/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/rIz1m8M7Lyc.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "lmAxUYhBiro",
+   "title": "Cómo hacer un ramo de flores de papel ¡Fácil!",
+   "description": "Tutorial que enseña cómo hacer un ramo de flores de papel fácil paso a paso, un regalo muy fácil y económico que puedes hacer tú mismo y que dará un toque original y colorido a la decoración de cualquier lugar. La flor que vamos a realizar con papel es un tulipán, el cual conseguimos hacer doblando el papel con nuestras manos. Tras hacer aproximadamente seis o siete tulipanes, conseguirás un auténtico ramo de tulipanes de papel muy bonito y que además se sostiene por sí solo, pudiéndolo apoya en cualquier mesa, mueble, estantería o donde tú desees colocarlo. Para hacer cada flor se necesitan",
+   "topic": "manualidades",
+   "collection": "flores",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 487,
+   "stream": "https://escuelita-tv.github.io/media-005/lmAxUYhBiro/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/lmAxUYhBiro.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "hbR7YMc2zDM",
+   "title": "Cómo hacer una huevera – Manualidades de Pascua",
+   "description": "Tutorial para hacer una huevera de papel fácil, una manualidad de pascua muy fácil de hacer en la que conseguirás una preciosa huevera donde colocar tus huevos de pascua. Esta huevera es muy sencilla de hacer y la puedes hacer tu mismo, el material que vamos a utilizar es papel, puedes utilizar papel del color que más te guste o bien utilizar un folio blanco y después decorarlo con rotuladores o pinturas. La huevera es individual, es decir, puedes colocar un huevo pero puedes hacer tantas como quieras. Es ideal para exhibir los huevos en modo decorativo, por eso te aconsejo que lo utilices p",
+   "topic": "manualidades",
+   "collection": "pascua",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 156,
+   "stream": "https://escuelita-tv.github.io/media-004/hbR7YMc2zDM/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/hbR7YMc2zDM.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "BUkKMFDLAg4",
+   "title": "Cómo hacer una cesta de papel fácil para huevos de pascua",
+   "description": "Tutorial para hacer una cesta de papel fácil en origami que puedes utilizar para guardar los huevos de pascua, tanto si son de chocolate como si son huevos de pascua decorados por ti mismo. Lo mejor de hacer una cesta para huevos con manualidades es que puedes personalizarla a tu gusto, puedes elegir el color del papel, utilizar papel estampados o con alguna decoración que te guste y añadir los detalles y mensajes que prefieras. También puedes hacerla tan grande como necesites, solo debes tener en cuenta que cuanto mayor sea el tamaño del papel mayor será el tamaño de la cesta. Vamos a reali",
+   "topic": "manualidades",
+   "collection": "pascua",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 206,
+   "stream": "https://escuelita-tv.github.io/media-004/BUkKMFDLAg4/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/BUkKMFDLAg4.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "gwXBHyJBsFs",
+   "title": "Cómo hacer un huevo de pascua de papel fácil en origami",
+   "description": "Te enseño como hacer huevos de pascua de papel en origami, una manualidad de pascua fácil de hacer con la que podrás decorar tu casa en la festividad de pascua o hacer un taller donde aprender origami de una forma sencilla. Vamos a hacer el cascarón del huevo con papel, para ellos necesitaremos dos hojas de papel ya que vamos a realizarlo en dos partes, como si el huevo se hubiese abierto y estuviese divido en dos. Puedes utilizar papel de colores o un folio blanco y después decorarlo como tu prefieras, pero debes tener en cuenta que el papel debe tener forma de cuadrado, es decir, debe medir",
+   "topic": "manualidades",
+   "collection": "pascua",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 382,
+   "stream": "https://escuelita-tv.github.io/media-005/gwXBHyJBsFs/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/gwXBHyJBsFs.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "SX041YPpdv8",
+   "title": "Sobre para carta en forma de camisa para el día del Padre",
+   "description": "Te enseño como hacer un sobre para carta de papel en forma de camisa, una manualidad para el día del padre fácil de hacer con la que podrás obsequiar a tu papa con un regalo hecho por ti mismo. Vamos a realizar un sobre en forma de camisa ideal para introducir una carta de felicitación, al tener forma de camisa es muy utilizada como manualidad para el día del padre, pero puedes hacerlo en cualquier época del año para obsequiar a quien tú quieras. El material principal es papel, que es muy económico, fácil de manipular y sencillo de encontrar en cualquier sitio. Puedes utilizar papel de color",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 188,
+   "stream": "https://escuelita-tv.github.io/media-005/SX041YPpdv8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/SX041YPpdv8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "7--QpErOiHo",
+   "title": "Marcapáginas en forma de corbata para el día del Padre ¡Incluye molde!",
+   "description": "Te enseño como hacer una marcapáginas original en forma de corbata para el día del padre, es muy fácil de hacer con papel y puedes utilizarlo como separador de libros para señalar las páginas en tus libros favoritos. El material para hacer este marcapáginas es papel, el cual tendrás que recortar y dar forma según se explica en las instrucciones de este tutorial. Para que puedas hacerlo tú mismo de una forma muy sencilla te he dejado un enlace que contiene el molde de la corbata que yo he hecho (la encontrarás en la cajita de descripción). Este marcapáginas es un regalo ideal para el día del",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 132,
+   "stream": "https://escuelita-tv.github.io/media-005/7--QpErOiHo/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/7--QpErOiHo.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "rCHaFwrAfaA",
+   "title": "Tarjeta twist pop up para el día del padre ¡Fácil!",
+   "description": "Tutorial que te enseña como hacer una tarjeta twist pop up para el día del Padre, una estupenda manualidad con cartulina fácil de hacer con la que conseguirás hacer una tarjeta desplegable pop up con giro que sorprenderá a quien se la regales. Los materiales para hacer esta tarjeta de felicitación son cartulina, tijeras, pegamento y rotulados o lapiceros de colores para escribir y colorear los detalles de la felicitación. Con estos materiales solo tienes que seguir paso a paso las instrucciones de este tutorial y conseguirás hacer el efecto desplegable con giro en tres dimensiones en esta tar",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 249,
+   "stream": "https://escuelita-tv.github.io/media-005/rCHaFwrAfaA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/rCHaFwrAfaA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "wnxV0cQYVDI",
+   "title": "Cómo hacer un Portalápices fácil de fútbol ¡Incluye Moldes!",
+   "description": "Tutorial para hacer un portalápices fácil de hacer de fútbol, una manualidad para futbolistas que le encantará a los amantes del fútbol, ya que podrán guardar sus lapiceros, bolígrafos y demás material en un perfecto orgaizador en forma de pelota de fútbol. Los materiales para realizar esta manualidad son cartulina y cartón, ambos son muy fáciles de manipular y conseguir. Necesitarás unas tijeras y pegamento para unir todas las partes y en pocos minutos tendrás tu propio portalápices personalizado. Para que sea más fácil para ti, en esta descripción te he incluido un enlace para descargar la",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 191,
+   "stream": "https://escuelita-tv.github.io/media-005/wnxV0cQYVDI/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/wnxV0cQYVDI.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "wrhQp1-Ck-w",
+   "title": "Cómo hacer un marco de fotos original – Manualidades para regalar",
+   "description": "Aprende como hacer un marco de fotos original y bonito, una manualidad para regalar muy fácil que puedes hacer tú mismo utilizando hojas de papel. Se trata de un marco de fotos de origami, por lo que vamos a realizarlo plegando el papel con tus manos. No necesitarás utilizar pegamento y sin embargo es sumamente robusto, es un regalo original que no se rompe fácilmente y perdura en el tiempo. El material que vamos a utilizar son hojas de papel, te aconsejo que sean papeles de colores o algún papel tipo scrapbook para que quede más bonito, aunque siempre lo puedes hacer con un folio blanco y",
+   "topic": "manualidades",
+   "collection": "madres",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 279,
+   "stream": "https://escuelita-tv.github.io/media-005/wrhQp1-Ck-w/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/wrhQp1-Ck-w.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "WD58N4k8Qm8",
+   "title": "Cómo hacer un Cofre con palitos de helado para regalar ¡Fácil!",
+   "description": "Te enseño a hacer un cofre con palitos de helado muy fácil, una manualidad para regalar que puedes personalizar tanto como quieras para entregar un auténtico regalo diy (hecho por ti mismo). Para hacer esta manualidad vamos a utilizar palitos de helado de madera, también conocidos como palitos de madera. Suelen ser los típicos palitos que nos encontramos en los helado, aunque como vamos a utilizar muchos te recomiendo que los compres en una tienda de manualidades. La estructura del cofre es entera con palitos de madera y luego utilizaremos cartón para los laterales. Puedes personalizar todo",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 87,
+   "stream": "https://escuelita-tv.github.io/media-005/WD58N4k8Qm8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/WD58N4k8Qm8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "GOV5pSUsq3M",
+   "title": "6 Manualidades de San Valentín con palitos de helado muy fáciles",
+   "description": "6 Manualidades de San Valentín con palitos de helado muy fáciles Ideas fáciles de manualidades de San Valentín con palitos de helado, son muy fáciles y rápidas de hacer y te servirán tanto para entregar un regalo a tu enamorado el 14 de febrero como para hacer una decoración original y amorosa hecha por ti mismo. El material principal que vamos a utilizar para hacer estas manualidades son palitos de helado, también llamados palos de paleta, que son los típicos palos de madera que puedes encontrar en los helados. Puedes reciclarlos o bien comprarlos, ya que vas a necesitar bastantes. Todas la",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 290,
+   "stream": "https://escuelita-tv.github.io/media-005/GOV5pSUsq3M/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/GOV5pSUsq3M.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "5NaadZLeg_g",
+   "title": "4 anillos de papel fáciles de hacer con origami",
+   "description": "Tutorial que enseña cómo hacer anillos de papel fácil y rápido, puedes elegir entre diamante, alianza, mariposa y corazón, cuatro formas diferentes para hacer un regalo original y divertido con papel. Todos los anillos que te enseño a hacer son anillos de origami, que se hacen doblando un trozo de papel con tus propias manos, sin tener que utilizar pegamento, cinta adhesiva, pegamento ni ningún otro material. Por este motivo, este tipo de anillos son la mejor opción para hacer un regalo express o regalo de último momento, ya que para hacerlos solo necesitarás papel y seguir las instrucciones",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 620,
+   "stream": "https://escuelita-tv.github.io/media-005/5NaadZLeg_g/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/5NaadZLeg_g.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "pk10nAbnOVA",
+   "title": "Cómo hacer un anillo de papel en forma de corazón",
+   "description": "Te enseño como hacer un anillo de papel en forma de corazón fácil utilizando una hoja de papel, es una idea estupenda para regalar a tu novio, enamorado o cualquier persona especial. El material para hacer este anillo es un papel en forma de cuadrado, nosotros hemos utilizado un cuadrado de 8 centímetros de lado, ya que es una medida bastante estándar para que se ajuste al dedo. Además, el papel es de color rojo, ya que suele ser el color más utilizado para hacer corazones, aunque tú puedes hacerlo del color que más te guste. Al tratarse de un anillo de origami es muy fácil de hacer, ya que",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 211,
+   "stream": "https://escuelita-tv.github.io/media-005/pk10nAbnOVA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/pk10nAbnOVA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "RY3NujvFpQA",
+   "title": "Cómo hacer un pato de origami ¡Fácil y paso a paso!",
+   "description": "Te enseño como hacer un pato de origami fácil paso a paso, solo tienes que seguir las instrucciones de este vídeo y en pocos minutos tendrás muchos patitos de papel hechos con tus propias manos. Para hacer este pato de papel necesitarás una hoja de papel en formada de cuadrado. Puedes utilizar un folio blanco, papel de colores o cualquier tipo de papel que tengas, lo único que debes tener en cuenta es que la longitud de los lados sea la misma para que forme un cuadrado. No necesitas pegamento ni tijeras, solo debes doblar y plegar el papel tal cual te enseño en este tutorial. Esta es la gran",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 320,
+   "stream": "https://escuelita-tv.github.io/media-005/RY3NujvFpQA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/RY3NujvFpQA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "sBLAdtL-LFA",
+   "title": "9 Guirnaldas navideñas de papel muy fáciles de hacer",
+   "description": "Te enseño como hacer guirnaldas de Navidad de papel paso a paso, son muy fáciles y rápidas de hacer, además de ser una estupenda idea para decorar tu casa en Navidad dándole un toque único y original. El material principal para hacer estas guirnaldas es papel, aunque puedes utilizar cartulina si quieres que queden más resistentes. Para que puedas hacer todavía más fáciles estas guirnaldas al final de esta descripción tienes un enlace con los moldes que yo mismo he utilizado para hacerlas. Índice de tutoriales para hacer guirnaldas navideñas: 00:07 Guirnalda de renos navideños con papel y p",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 471,
+   "stream": "https://escuelita-tv.github.io/media-005/sBLAdtL-LFA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/sBLAdtL-LFA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "aTQhNDxaALA",
+   "title": "Cómo hacer un RENO navideño de papel ¡Fácil!",
+   "description": "Manualidad para hacer un reno de Navidad con papel, te lo explico paso a paso y verás que es tan fácil de hacer que en pocos minutos tendrás muchos renos hechos por ti mismo. El material que vamos a necesitar son dos hojas de papel que tengan un color diferente por cada lado, por una lado serán de color blanco y por el otro pueden ser de color naranja o marrón. Las hojas de papel tienen que tener forma de cuadrado, si no tienes papel de colores que tengan un color distintos por cada lado, puedes utilizar folios blancos y después pintar con rotuladores o ceras del color que prefieras. Como",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 461,
+   "stream": "https://escuelita-tv.github.io/media-005/aTQhNDxaALA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/aTQhNDxaALA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "hKQpNLn8mM4",
+   "title": "Cómo hacer flores de papel para navidad ¡Fácil y paso a paso!",
+   "description": "Tutorial para hacer flores de navidad de papel, una manualidad navideña muy fácil y rápida con la que podrás hacer tus propias flores navideñas. En el vídeo te enseño todas las instrucciones para que tú mismo puedas hacer una flor de Nochebuena de papel paso a paso, una idea genial para hacer una decoración floral original para Navidad. Los materiales que vas a necesitas es 1 hoja de papel de color verde para los sépalos, 1 hoja de papel de color rojo para los pétalos y unas pequeñas bolitas amarillas o doradas para darle un toque único, simulando los estambres. También necesitarás herramien",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 243,
+   "stream": "https://escuelita-tv.github.io/media-005/hKQpNLn8mM4/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/hKQpNLn8mM4.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "sFeESndkqGA",
+   "title": "Cómo hacer copos de nieve con papel fácil y paso a paso",
+   "description": "Tutorial que enseña cómo hacer un copo de nieve de papel fácil y rápido utilizando la técnica del origami, en la que doblarás y plegarás una hoja de papel con tus propias manos hasta conseguir hacer un copo de papel. Este copo de nieve se hace con papel, pero es muy resistente porque doblamos el papel sobre sí mismo. El único material que necesitas es una hoja de papel, nuestro copo al tener 6 puntas necesita 6 trozos de papel en forma de cuadrado. Doblaremos cada cuadrado de papel para formar una punta del copo y posteriormente se unirán todas las puntas entre sí, sin necesidad de utilizar",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 229,
+   "stream": "https://escuelita-tv.github.io/media-005/sFeESndkqGA/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/sFeESndkqGA.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "FiUvG6TIn_E",
+   "title": "Cómo hacer un PERRO de origami paso a paso ¡Fácil!",
+   "description": "Tutorial para hacer un perro de origami fácil paso a paso, en este vídeo te enseño los pliegues que debes hacer en el papel para conseguir hacer un sencillo perrito con la técnica del origami. El material que vamos a utilizar es papel, solo necesitarás una hoja de papel y puede cualquier tipo de papel: papel de colores, papel estampado o incluso un folio blanco que luego puedes pintar y decorar como tú quieras. Nosotros hemos utilizado un papel de 20 x 20 centímetros, pero tú puedes utilizar la medida que prefieras, solo debes tener en cuenta que debe tener forma de cuadrado. Cuanto mayor ta",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 345,
+   "stream": "https://escuelita-tv.github.io/media-006/FiUvG6TIn_E/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/FiUvG6TIn_E.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "scbFMED2vg0",
+   "title": "Cómo hacer un TRICERATOPS de origami ¡Fácil!",
+   "description": "Instrucciones para hacer un triceratops de origami fácil paso a paso, solo necesitas dos hojas de papel y seguir los pasos que te explicamos en este vídeo, ya verás como en menos de 5 minutos tienes este estupendo dinosaurio de papel hecho por ti mismo. El material que vamos a utilizar es papel, puede ser papel de colores, folios blancos o papel estampando. Son necesarias dos hojas de papel en forma cuadrado que debes doblar con tus propias manos, no necesitas pegamento ni tijeras y si sigues las instrucciones de este vídeo, conseguirás hacer un triceratops de papel muy fácil. Si te gusta es",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 537,
+   "stream": "https://escuelita-tv.github.io/media-006/scbFMED2vg0/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/scbFMED2vg0.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "U8T7TJzBUIU",
+   "title": "Cómo hacer una abeja de papel fácil",
+   "description": "Tutorial para hacer una abeja de papel fácil explicado paso a paso, una idea con la que podrás hacer muchas abejas de forma sencilla y rápida para decorar, practicar el arte de la papiroflexia o realizar algún taller para aprender a hacer figuras de papel. Esta manualidad, trata de hacer una abeja de origami utilizando 1 hoja de papel, al tratarse de una figura de origami no necesitarás utilizar pegamento ni tijeras, solo tienes que seguir las instrucciones de este video paso a paso y verás que puedes hacerla tu mismo. Puedes utilizar un folio blanco o papel de colores, como verás en el víde",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 235,
+   "stream": "https://escuelita-tv.github.io/media-006/U8T7TJzBUIU/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/U8T7TJzBUIU.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "GUARXceNS70",
+   "title": "Cómo hacer un cangrejo de papel en origami ¡Fácil!",
+   "description": "Te enseño como hacer un cangrejo de papel paso a paso con origami paso a paso, una figura de papel muy sencilla con la que conseguirás hacer un cangrejo utilizando una hoja de papel. Esta figura se trata de un cangrejo de origami porque para hacerla solo hemos doblado y plegado el papel, sin utilizar en ningún momento tijeras o pegamento. Es muy fácil de hacer, solo tienes que seguir paso a paso las instrucciones de este video y en pocos minutos tendrás este estupendo animal de papel. El único material que hemos utilizado es una hoja de papel, en nuestro caso hemos utilizado u papel de 15 ce",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 198,
+   "stream": "https://escuelita-tv.github.io/media-006/GUARXceNS70/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/GUARXceNS70.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "O__X6z7Rpek",
+   "title": "Cómo hacer un Trofeo Casero con material reciclado ¡Fácil!",
+   "description": "Te enseño como hacer un trofeo casero fácil reciclando una botella de plástico, es una manualidad muy fácil que puedes hacer para regalar un trofeo personalizado a tu papa, novio, amigo o cualquier persona especial. El material que vamos a utilizar para realizar este trofeo es una botella de plástico reciclada, las típicas botellas de refresco. Debes cortar y pegar siguiendo paso a paso las instrucciones de este vídeo y verás como en muy pocos minutos tienes un trofeo hecho a mano por ti mismo. Lo mejor es que puedes personalizar a tu gusto, por ejemplo si lo utilizas como regalo para el día",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 121,
+   "stream": "https://escuelita-tv.github.io/media-005/O__X6z7Rpek/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/O__X6z7Rpek.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "UkA-v1g5hu4",
+   "title": "Cómo hacer una grulla de papel con origami ¡Fácil! Tutorial paso a paso",
+   "description": "Aprende como hacer una grulla de papel fácil paso a paso con origami con este tutorial, donde te enseño a doblar el papel con tus propias manos para que tú mismo puedas hacer esta fantástica grulla de origami. El material que necesitaremos es únicamente una hoja de papel, puedes hacerlo con un folio blanco, con papel de colores o bien con papel estampado. La medida del papel será un cuadrado, nosotros hemos realizado la grulla con un papel de 20 centímetros de lado, pero puede ser el tamaño que prefieras. Al tratarse de una grulla de origami, solo vamos a necesitar seguir las instrucciones",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 272,
+   "stream": "https://escuelita-tv.github.io/media-006/UkA-v1g5hu4/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/UkA-v1g5hu4.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "SeM-7LvPYAc",
+   "title": "Cómo hacer flores de papel fáciles y bonitas",
+   "description": "Tutorial donde te enseño como hacer flores de papel fáciles y bonitas en menos de 5 minutos, una auténtica manualidad con papel con la que conseguirás una decoración en el hogar colorida y preciosa. El único material que necesitas para hacer esta flor es una hoja de papel, te recomiendo que sea papel de colores, para que tus flores queden más hermosas. En el vídeo se muestran las instrucciones para que puedas hacer una flor paso a paso y si quieres hacer un ramo tan solo debes repetir esta técnica tantas veces como flores quieras hacer. Puedes utilizar esta idea para decorar tu casa, hacer u",
+   "topic": "manualidades",
+   "collection": "flores",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 382,
+   "stream": "https://escuelita-tv.github.io/media-006/SeM-7LvPYAc/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/SeM-7LvPYAc.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "aNhIMy_Yv3s",
+   "title": "Cómo hacer una carta para el día de la Madre",
+   "description": "Te enseño como hacer una carta para el día de la madre paso a paso con este sencillo tutorial, una manualidad que podrás hacer tú mismo ya que es muy fácil de hacer, sigue las instrucciones y en menos de 5 minutos la tendrás hecha. Es súper rápido. El único material para hacer esta tarjeta para el día de la madre es una hoja de papel, yo he elegido un folio en blanco para después decorarlo con frases bonitas de amor. Te aconsejo que pongas las frases más representativas y que más gusten a tu mama, o alguna forma de dirigirte a ella especial. Lo mejor de esta carta es que puedes personalizar",
+   "topic": "manualidades",
+   "collection": "madres",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 167,
+   "stream": "https://escuelita-tv.github.io/media-004/aNhIMy_Yv3s/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/aNhIMy_Yv3s.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "G4PapIkFmAI",
+   "title": "Conejo de papel en origami – Tutorial fácil",
+   "description": "Tutorial que explica cómo hacer un conejo de papel en origami paso a paso, es fácil y rápido y puedes hacerlo con tus propias manos ¿Te animas? El material para hacer la figura del conejo de origami es únicamente una hoja de papel, que puede ser un folio blanco, un papel de color o bien papel estampado. Solo tienes que seguir las instrucciones de este vídeo y doblar y plegar el papel con tus manos. No se necesita pegamento ni tijeras, aunque se recomienda utilizar unos rotuladores para pintar los detalles. Este conejo de papel es fácil y rápido de hacer, se tiene en pie sobre sus propias pat",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 346,
+   "stream": "https://escuelita-tv.github.io/media-006/G4PapIkFmAI/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/G4PapIkFmAI.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "Xn11Nd499_4",
+   "title": "Manualidades de Pascua con rollos de papel",
+   "description": "Ideas originales de manualidades para Pascua con los tubos de cartón que encontrarás en el interior de los rollos de papel higiénico, rollos de cocina o rollos WC. Celebra esta fecha tan especial con una decoración de pascua original y divertida, sobre todo totalmente personalizable ya que puedes darle tu toque personal a cada una de las manualidades convirtiéndolas en elementos únicos adaptados completamente a tus gustos. El material principal para realizar todas estas manualidades son los rollos de papel, por lo que todas las ideas son estupendas para fomentar valores como el reciclaje. Al",
+   "topic": "manualidades",
+   "collection": "pascua",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 260,
+   "stream": "https://escuelita-tv.github.io/media-006/Xn11Nd499_4/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/Xn11Nd499_4.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "7ef_cK3mP4c",
+   "title": "Cómo hacer un Conejo de papel saltarín – Origami fácil",
+   "description": "Te enseño como hacer un conejo de papel saltando en origami muy fácil de hacer. Este conejito salta cuando presionas con tu dedo su costado, cuanto más fuerte lo presiones más alta y lejos saltará. ¿Te animas a hacer tu mismo esta manualidad? El único material que necesitamos para hacer este conejito de origami es una hoja de papel, que tendremos que doblar y plegar sobre si mismo siguiendo paso a paso las instrucciones de este tutorial. El papel debe tener forma cuadrada y las medidas solo debes saber que cuanto mayor sea el papel más grande será tu conejito. Puedes utilizar papel de color",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 450,
+   "stream": "https://escuelita-tv.github.io/media-006/7ef_cK3mP4c/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/7ef_cK3mP4c.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "iwS0TiExUIw",
+   "title": "Cómo hacer un comecocos de papel ¡Fácil!",
+   "description": "Te enseño como hacer un comecocos de papel fácil utilizando técnicas de origami, en las que vas a doblar una hoja de papel con tus propias manos hasta conseguir hacer un comecocos tu mismo. Este vídeo es un tutorial para hacer un comecocos paso a paso hecho por ti mismo. El único material que necesitas es una hoja de papel, puedes elegir papel de colores o un folio blanco. No es necesario utilizar pegamento, tijeras ni otras herramientas ya que al ser un comecocos de origami solo necesitarás plegar el papel siguiendo las instrucciones de este tutorial. Una vez que lo hayas hecho puedes decor",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 125,
+   "stream": "https://escuelita-tv.github.io/media-006/iwS0TiExUIw/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/iwS0TiExUIw.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "XwnC5WdY_tg",
+   "title": "Cómo hacer un Trofeo para el Día del Padre con papel",
+   "description": "Aprende como hacer un trofeo de papel para el día del padre, es muy fácil de hacer y una estupenda manualidad para regalar a tu papa, seguro que le encanta. Para hacer este trofeo tu mismo necesitarás una hoja de papel A3. También puedes utilizar cartulina, nosotros en el ejemplo del vídeo lo hemos realizado con este material para que quede más robusto y fuerte. El proceso de creación para hacer el trofeo es el mismo en ambos casos, solo debes seguir paso a paso las instrucciones de este vídeo. La parte de abajo del trofeo es una caja de papel dónde podrás guardar una sorpresa, tal vez un me",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 183,
+   "stream": "https://escuelita-tv.github.io/media-006/XwnC5WdY_tg/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/XwnC5WdY_tg.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "UaTZscLd8nI",
+   "title": "Cómo hacer una gorra de papel o cartulina fácil ¡Moldes!",
+   "description": "Te enseño como hacer una gorra de papel fácil para el día del padre, una manualidad estupenda que también puedes hacer con cartulina si quieres que quede más robusta y resistente. Además, este regalo también funciona como caja en forma de gorra, por lo que podrás guardar en su interior la sorpresa que más te guste. Al final de la descripción encontrarás en enlace a la plantillas con los moldes para hacer la gorra, así te será mucho más sencillo de realizar. Estos son los que yo he utilizado, puedes descargarlos e imprimirlos y así será mucho más fácil. Puedes hacer esta gorra de papel pero s",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 245,
+   "stream": "https://escuelita-tv.github.io/media-006/UaTZscLd8nI/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/UaTZscLd8nI.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "30wSSfFgMQ0",
+   "title": "Cómo hacer una medalla casera y fácil de papel para el día del Padre",
+   "description": "Te enseño como hacer una medalla casera de papel, una estupenda manualidad que puedes utilizar como regalo para el para el día del padre. Es muy fácil de hacer, solo necesitas papel y en 5 minutos tendrás tu propia medalla casera hecha por ti mismo. El material que necesitarás será papel o también puedes utilizar cartulina para que quede más resistente. El proceso será el mismo, solo tienes que seguir paso a paso las instrucciones de este vídeo. Necesitarás utilizar tijera y pegamento para conseguir la forma de medalla y después un rotulador o pinturas para decorarla y poner el mensaje que má",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 218,
+   "stream": "https://escuelita-tv.github.io/media-006/30wSSfFgMQ0/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/30wSSfFgMQ0.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "Sh7ewzcH3nk",
+   "title": "Cómo hacer una Camisa de origami para el día del Padre",
+   "description": "Te enseño como hacer una camisa de origami con una hoja de papel, es muy fácil de hacer y puedes utilizarla para regalarla a tu papa en el día del padre. Para hacer esta camisa de papel solo necesitarás una hoja de papel, puedes elegir papel de colores, papel estampado o un folio blanco. Después tan solo tienes que seguir las instrucciones de este tutorial paso a paso, doblando y plegando el papel según se indica en el vídeo. El tamaño de la hoja de papel es cuadrado, puedes utilizar la medida que tu prefieras, solo ten en cuenta que cuanto mayor tamaño tenga el papel mayor será el tamaño de",
+   "topic": "manualidades",
+   "collection": "padre",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 179,
+   "stream": "https://escuelita-tv.github.io/media-006/Sh7ewzcH3nk/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/Sh7ewzcH3nk.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "V40NLB-5VpY",
+   "title": "Cómo hacer corazones de papel pequeños ¡Fácil!",
+   "description": "Os enseño como hacer corazones de papel pequeños, una manualidad para San Valentín muy fácil de hacer con la que podrás hacer mini corazones para decorar el día de los enamorados. Para hacer estos corazoncitos solo necesitas tiras de hojas de papel, te aconsejo que sea papel de colores así quedarás muchos más bonitos. Una vez que tengas las tiras de papel cortadas solo tienes que seguir paso a paso las instrucciones de este video donde te enseño como convertirlas en corazones con tus propias manos. El material que necesitas es papel, que es muy fácil de encontrar y económico. Además esta man",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 149,
+   "stream": "https://escuelita-tv.github.io/media-006/V40NLB-5VpY/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/V40NLB-5VpY.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "AH4nAczcTxY",
+   "title": "Corazón con mensaje oculto fácil y paso a paso",
+   "description": "Te enseño como hacer un corazón con mensaje oculto para San Valentín, es muy fácil de hacer y solo necesitas una hoja de papel. En este tutorial te explico cómo hacer este corazón con mensaje secreto paso a paso ¿Te animas? Para hacer este corazón solo necesitas una hoja de papel, lo más normal es que utilices un papel de color rojo ya que suele ser el color que se asocia a los corazones de San Valentín. Después necesitarás una tira de papel donde puedes escribir un mensaje oculto, como por ejemplo “Te quiero mucho”, “I love you” o cualquier mensaje especial que entienda la persona quien se l",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 294,
+   "stream": "https://escuelita-tv.github.io/media-006/AH4nAczcTxY/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/AH4nAczcTxY.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "tFAvgp1NmHs",
+   "title": "Cómo hacer un regalo en forma de corazón para San Valentín",
+   "description": "Te enseño como puedes hacer un regalo en forma de corazón para San Valentín, en este caso vamos a envolver una piruleta en forma de corazón con una hoja de papel, un regalo muy bonito para entregar el día de los enamorados. Esta idea es muy fácil de hacer, tan solo necesitaremos una hoja de papel. Puedes elegir un papel de color rojo, el color más típico de los corazones de San Valentín o bien puedes hacerlo con papel estampado e incluso con un folio blanco en el que luego pongas un mensaje romántico. Para hacer este regalo original hemos utilizado técnicas de origami, por lo que solo tendrá",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 162,
+   "stream": "https://escuelita-tv.github.io/media-006/tFAvgp1NmHs/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/tFAvgp1NmHs.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "sbQEG2oAbcQ",
+   "title": "Tarjeta de corazones en cascada deslizables para San Valentín ¡Fácil!",
+   "description": "Tutorial para hacer una tarjeta de corazones en cascada que se deslizan. Tiene los colores del arco iris, por lo que es una tarjeta muy bonita y llamativa para regalar los enamorados en el día de San Valentín. Se trata de una preciosa tarjeta para regalar que además es muy económica. Solo necesitas hojas de papel de colores y si sigues paso a paso todas las instrucciones de este video conseguirás hacerla tu mismo en pocos minutos. Como verás, con esta idea podrás realizar tu propia tarjeta de san Valentín diy, ya que puedes personalizarla a tu gusto, ponerle los mensajes amorosos que tú quie",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 226,
+   "stream": "https://escuelita-tv.github.io/media-006/sbQEG2oAbcQ/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/sbQEG2oAbcQ.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "n5nTE4Sa8V0",
+   "title": "Caja corazón de origami ideal para regalar- Fácil paso a paso",
+   "description": "Te enseño como hacer una caja corazón de origami con una hoja de papel, una cajita de origami fácil de hacer que podrás utilizarla para regalar el día de los enamorados a una persona especial. Esta caja de papel en forma de corazón la vamos a realizar con origami, por lo que solo necesitarás seguir paso a paso las instrucciones de este tutorial. Tan solo debes doblar y plegar el papel con tus manos, sin necesidad de utilizar pegamento, tijeras ni ninguna otra herramienta. Esta caja corazón también funciona como un sobre ya que permite abrirse y cerrarse fácilmente, dejando un mensaje amoroso",
+   "topic": "manualidades",
+   "collection": "valentin",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 314,
+   "stream": "https://escuelita-tv.github.io/media-006/n5nTE4Sa8V0/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/n5nTE4Sa8V0.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "PaZ2wGXx1Co",
+   "title": "Cómo hacer una serpiente de papel saltarina",
+   "description": "Tutorial para hacer una serpiente de papel saltarina con origami, se trata de una serpiente en una caja que cuando aprietas con tus dedos sale saltando. El material para hacer una serpiente saltarina es una hoja de papel, que tendrás que doblar siguiendo paso a paso las instrucciones de este vídeo. No se necesita pegamento ni tijeras, tan solo es recomendable rotuladores para pintar los detalles de la serpiente. Yo he utilizado un papel que tiene un dibujo de escamas de serpiente, pero tú puedes hacerlo con una hoja de papel verde o incuso con un folio y luego pintarlo. Lo más importante es",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 281,
+   "stream": "https://escuelita-tv.github.io/media-007/PaZ2wGXx1Co/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/PaZ2wGXx1Co.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "hEa99s05m9o",
+   "title": "6 Manualidades de Navidad con tarros de cristal – Decoración navideña con frascos de vidrio",
+   "description": "Te enseño como hacer manualidades navideñas con tarros de cristal muy fáciles, solo tienes que seguir paso a paso las instrucciones de cada una de las ideas de Navidad que te explico en este vídeo, verás que decoración navideña más original puedes hacer para tu hogar. El material principal para realizar estas ideas navideñas son frascos de vidrio, que los podrás reutilizar y reciclar de los productos que vienen envasados en todo tipo de botes de cristal. También puedes optar por comprarlos, pero seguro que encuentras en tu casa muchos tarros que puedes evitar que vayan a la basura con estas s",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 447,
+   "stream": "https://escuelita-tv.github.io/media-007/hEa99s05m9o/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/hEa99s05m9o.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "I3ZWK-0Eaqw",
+   "title": "6 Manualidades navideñas con piñas fáciles y rápidas",
+   "description": "Aprende como hacer manualidades navideñas con piñas secas de pino, son 6 ideas para Navidad fáciles de hacer utilizando las piñas secas que encuentres en la naturaleza. El material principal de todas estas ideas navideñas son las piñas, la cuales podrás recoger debajo de los pinos cuando llega la temporada de otoño o invierno. Una vez que están secan puedes utilizarlas para realizar muchas manualidades sencillas, siendo muy utilizadas en la época de Navidad para decorar. Lista completa de manualidades de Navidad con piñas: 00:05 Árbol navideño con piñas en frasco de crista 01:16 Árbol de Na",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 268,
+   "stream": "https://escuelita-tv.github.io/media-007/I3ZWK-0Eaqw/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/I3ZWK-0Eaqw.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "Suigs_X94YY",
+   "title": "Corona navideña de papel – Manualidades de Navidad con papel",
+   "description": "Te enseño como hacer una corona navideña de papel, una manualidad muy fácil de hacer que puedes utilizar para decorar tu casa en Navidad. Esta manualidad se trata de una corona navideña de origami, lo que significa que para poder hacerla solo necesitas hojas de papel y seguir paso a paso las instrucciones de este video, pero no es necesario pegamento, tijeras ni ningún otro material. La corona está formada por cara de renos de navidad y cara de Santa Claus. Solo vamos a utilizar 8 hojas de papel, aunque te recomiendo que sean hojas de papel que tengan un color por cada lado, así con una mism",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 674,
+   "stream": "https://escuelita-tv.github.io/media-007/Suigs_X94YY/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/Suigs_X94YY.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "v0MMrIMUtwI",
+   "title": "Cómo hacer una corona de Navidad con árboles de Navidad y Santa Claus de papel.",
+   "description": "Aprende como hacer una corona de Navidad para la puerta de papel, realizando árboles de de Navidad de papel y gorros de Santa Claus o Papa Noel de papel. Al juntarlos unos con otros, tendrás una estupenda corona navideña hecha por ti mismo. Para hacer la corona necesitaremos hojas de papel de diferentes colores, pero no es necesario utilizar pegamento, tijeras ni ningún otro material ya que vamos a realizar tanto los árboles navideños como los gorros utilizando la técnica del origami. Los papeles necesarios son 4 hojas de papel de color verde y blanco para los árboles de Navidad y 4 hojas de",
+   "topic": "manualidades",
+   "collection": "navidad",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 403,
+   "stream": "https://escuelita-tv.github.io/media-007/v0MMrIMUtwI/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/v0MMrIMUtwI.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "DP6gltg4KZs",
+   "title": "Cómo hacer un pájaro de papel con origami ¡Fácil!",
+   "description": "Te enseño como hacer un pájaro de papel paso a paso con origami, una forma fácil de doblar el papel hasta conseguir un bonito pájaro. El único material para hacer un pájaro de origami es una hoja de papel, puede ser un folio blanco o papel de color. El tamaño es indiferente, solo tiene que saber que cuanto mayor será el papel mayor tamaño tendrá tu pájaro (nosotros hemos utilizado un papel de 20 centímetros de lado en forma de cuadrado). No es necesario tijeras ni pegamento, ya que lo haremos con técnicas de origami. Lo único que tienes que hacer es doblar y plegar el papel siguiendo las ins",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 199,
+   "stream": "https://escuelita-tv.github.io/media-006/DP6gltg4KZs/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/DP6gltg4KZs.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "EaquxtQZrqg",
+   "title": "Cómo hacer DDAKJI fácil Juego Coreano",
+   "description": "Ddakji es el juego coreano famoso en el juego del calamar, la popular serie de Netflix. Te enseño como hacer módulos o bloques Ddakji paso a paso con papel y cartón, una manualidad fácil, económica y divertida con la que podrás crear tu propio juego. Para hacer nuestro juego necesitaremos dos hojas de papel de diferentes colores, las cuales doblaremos sobre sí mismas paso a paso con técnicas de origami. Después para darle consistencia a nuestro bloque o modulo, añadiremos un cuadrado de cartón, para que junto con el papel nos quede una pieza única que podamos lanzar. Este juego también es no",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 193,
+   "stream": "https://escuelita-tv.github.io/media-007/EaquxtQZrqg/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/EaquxtQZrqg.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "uIqiXo-XAUk",
+   "title": "4 Soportes para celular caseros MUY FÁCILES con papel y origami",
+   "description": "Te enseño como hacer 4 soportes para móvil o celular caseros muy fáciles de hacer con una hoja de papel y técnicas de origami. Así que ya sabes, a partir de ahora si tienes un papel, tienes un práctica base para móvil. Estos soportes son tan sencillos de hacer que no hace falta tijeras ni pegamento, solo seguir las instrucciones de este tutorial paso a paso y en 1 minuto tendrá tu propio soporte, que servirá como base para sujetar el móvil, tanto en forma vertical como horizontal. Todos son muy fáciles de hacer, se realizan con tan solo 1 hoja de papel. En este índice puedes acceder directam",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 710,
+   "stream": "https://escuelita-tv.github.io/media-007/uIqiXo-XAUk/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/uIqiXo-XAUk.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "tQ5N2PKzddI",
+   "title": "Cómo hacer un diamante de papel – Tutorial origami fácil",
+   "description": "Aprende como hacer un diamante de papel fácil con este sencillo tutorial de origami, dónde te explicamos paso a paso todas las instrucciones que debes seguir para hacer un diamante con una hoja de papel. Vamos a hacer un diamante con origami, que es una técnica que consiste en doblar y plegar el papel sobre sí mismo hasta realizar la figura que deseemos. Como verás, la forma del diamante es bastante realista, ya que se trata de un diamante 3d (en tres dimensiones) que tiene la forma más conocida de esta piedra preciosa. En este tutorial hemos utilizado una hoja de papel de 20 centímetros de",
+   "topic": "manualidades",
+   "collection": "cajas",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 626,
+   "stream": "https://escuelita-tv.github.io/media-008/tQ5N2PKzddI/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/tQ5N2PKzddI.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "DNxHdSZkyb8",
+   "title": "Cómo hacer una paloma de la paz con origami ¡FÁCIL!",
+   "description": "Aprende como hacer una paloma de papel con origami, la mejor forma de hacer una paloma de la paz utilizando una hoja de papel. Es muy fácil de hacer y rápida, así que es una manualidad estupenda para hacer en poco tiempo. Para hacer la paloma de la paz con papel el material que necesitas es una hoja de papel y como la vamos a realizar con técnicas de origami, no hace falta ningún otro material, sin pegamento ni tijeras. Una vez que tengas hecha tu paloma si te aconsejo pintar los detalles de sus alas, cabeza, plumas y pico con un rotulador, así quedará mucho más bonita. Esta idea es muy senc",
+   "topic": "manualidades",
+   "collection": "animales",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 317,
+   "stream": "https://escuelita-tv.github.io/media-007/DNxHdSZkyb8/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/DNxHdSZkyb8.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "agRhqd2OAjc",
+   "title": "Cómo hacer helados de papel con origami ¡Fácil!",
+   "description": "Tutorial para hacer helados de papel fácil paso a paso, utilizando origami doblarás el papel hasta conseguir hacer tus conos de helado ¿Te animas? Estos helados son muy fáciles de hacer, solo tienes que seguir las instrucciones de este vídeos. El único material que hace falta es una hoja de papel, que puedes ser un folio blanco o bien papel de colores (yo te recomiendo que sea papel de color ya que así quedará tu helado mucho más bonito). Puedes utilizar esta manualidad para decorar una fiesta, hacer un taller dónde aprender figuras de origami, decorar tu habitación, cocina o lo que tú dese",
+   "topic": "manualidades",
+   "collection": "papel",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 162,
+   "stream": "https://escuelita-tv.github.io/media-008/agRhqd2OAjc/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/agRhqd2OAjc.jpg",
+   "creator": {
+    "name": "Manualidades Play",
+    "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
+    "channelDisplay": "youtube.com/@ManualidadesPlay"
+   }
+  },
+  {
+   "id": "ObjlmQYyvcE",
+   "title": "Cómo hacer una flor de papel fácil y rápido",
+   "description": "Tutorial para hacer una flor de papel fácil y rápido con el que podrás hacer preciosos ramos de flores de papel muy sencillas. Las flores que puedes hacer con esta técnica son muy llamativas, coloridas y decorativas, así que lucirán preciosas en cualquier lugar dónde las pongas. El material que vamos a utilizar es papel, te recomiendo que sea papel de colores, ya que las flores son muy llamativas cuando las hacemos de diferente color. Utilizaremos 6 trozos de papel en forma de cuadrado (la medida es indiferente, pero todos deben ser iguales). En este caso utilizaremos también pegamento para",
+   "topic": "manualidades",
+   "collection": "flores",
+   "ageBands": [
+    "6-9"
+   ],
+   "durationSec": 196,
+   "stream": "https://escuelita-tv.github.io/media-007/ObjlmQYyvcE/master.m3u8",
+   "thumbnail": "https://escuelita-tv.github.io/feed/img/ObjlmQYyvcE.jpg",
    "creator": {
     "name": "Manualidades Play",
     "channelUrl": "https://www.youtube.com/@ManualidadesPlay",
